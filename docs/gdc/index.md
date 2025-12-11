@@ -1,6 +1,6 @@
 # GDC 资料索引
 
-> 历年游戏开发者大会（Game Developers Conference）演讲资料归档 - 以单个分享为粒度
+> 历年游戏开发者大会（Game Developers Conference）演讲资料归档 - 以单个分享为粒度，涵盖所有类型
 
 ## 0. 归档原则
 
@@ -11,6 +11,7 @@
 - 尽量保持原始内容，不过度提炼
 - 详细的资源链接和参考资料
 - 清晰的分类和标签系统
+- **涵盖所有类型：** 技术、美术、策划、运营、制作等
 
 ---
 
@@ -21,38 +22,79 @@ docs/gdc/
 ├── index.md (本文件)
 ├── TEMPLATE.md (演讲文档模板)
 └── talks/
-    ├── 2015/
-    ├── 2016/
-    ├── 2017/
-    ├── 2018/
-    ├── 2019/
-    ├── 2020/
-    ├── 2021/
-    ├── 2022/
-    ├── 2023/
-    ├── 2024/
-    ├── 2025/
-    └── [主题分类]/
-        ├── player-research/
-        ├── game-design/
-        ├── narrative/
-        ├── system-design/
-        ├── technical/
-        └── ...
+    ├── [按年份]/
+    │   ├── 2015/
+    │   ├── 2016/
+    │   ├── 2017/
+    │   └── ...
+    └── [按主题分类]/
+        ├── programming/ (编程技术)
+        ├── graphics/ (图形渲染)
+        ├── audio/ (音频)
+        ├── art/ (美术)
+        ├── design/ (游戏设计)
+        ├── narrative/ (叙事)
+        ├── ai/ (人工智能)
+        ├── vr-ar/ (虚拟现实/增强现实)
+        ├── production/ (制作)
+        ├── business/ (商业与营销)
+        ├── player-research/ (玩家研究)
+        └── other/ (其他)
 ```
 
 ---
 
-## 2. 按年份索引
+## 2. 按主题分类索引
+
+### 2.1 编程技术 (Programming)
+- [待补充]
+
+### 2.2 图形渲染 (Graphics)
+- [待补充]
+
+### 2.3 音频 (Audio)
+- [待补充]
+
+### 2.4 美术 (Art)
+- [待补充]
+
+### 2.5 游戏设计 (Design)
+- [20 Lessons: 20 Years of Magic: The Gathering Design](../talks/2016/gdc-2016-mark-rosewater-20-lessons.md) - Mark Rosewater (2016)
+- [The Courage to Innovate: The Breath of the Wild Story](../talks/2017/gdc-2017-zelda-breath-of-wild-innovation.md) - 塞尔达开发团队 (2017)
+
+### 2.6 叙事设计 (Narrative)
+- [使用平凡的流程创作非凡的故事](../talks/2015/gdc-2015-kodaka-danganronpa-story.md) - 小高和刚 (2015)
+
+### 2.7 人工智能 (AI)
+- [待补充]
+
+### 2.8 虚拟现实/增强现实 (VR/AR)
+- [待补充]
+
+### 2.9 制作 (Production)
+- [待补充]
+
+### 2.10 商业与营销 (Business & Marketing)
+- [待补充]
+
+### 2.11 玩家研究 (Player Research)
+- [Player Motivation Model](../talks/player-research/gdc-nick-yee-player-motivation.md) - Nick Yee
+
+### 2.12 其他 (Other)
+- [待补充]
+
+---
+
+## 3. 按年份索引
 
 ### 2015
-- [使用平凡的流程创作非凡的故事](talks/2015/gdc-2015-kodaka-danganronpa-story.md) - 小高和刚
+- [使用平凡的流程创作非凡的故事](talks/2015/gdc-2015-kodaka-danganronpa-story.md) - 小高和刚 (叙事设计)
 
 ### 2016
-- [20 Lessons: 20 Years of Magic: The Gathering Design](talks/2016/gdc-2016-mark-rosewater-20-lessons.md) - Mark Rosewater
+- [20 Lessons: 20 Years of Magic: The Gathering Design](talks/2016/gdc-2016-mark-rosewater-20-lessons.md) - Mark Rosewater (游戏设计)
 
 ### 2017
-- [The Courage to Innovate: The Breath of the Wild Story](talks/2017/gdc-2017-zelda-breath-of-wild-innovation.md) - 塞尔达开发团队
+- [The Courage to Innovate: The Breath of the Wild Story](talks/2017/gdc-2017-zelda-breath-of-wild-innovation.md) - 塞尔达开发团队 (游戏设计)
 
 ### 2018
 - [待补充]
@@ -76,32 +118,6 @@ docs/gdc/
 - [待补充]
 
 ### 2025
-- [待补充]
-
----
-
-## 3. 按主题分类索引
-
-### 3.1 游戏设计 (Game Design)
-- [20 Lessons: 20 Years of Magic: The Gathering Design](talks/2016/gdc-2016-mark-rosewater-20-lessons.md) - Mark Rosewater (2016)
-- [The Courage to Innovate: The Breath of the Wild Story](talks/2017/gdc-2017-zelda-breath-of-wild-innovation.md) - 塞尔达开发团队 (2017)
-
-### 3.2 叙事设计 (Narrative Design)
-- [使用平凡的流程创作非凡的故事](talks/2015/gdc-2015-kodaka-danganronpa-story.md) - 小高和刚 (2015)
-
-### 3.3 数值与平衡设计 (Game Balance & Numeric Design)
-- [待补充]
-
-### 3.4 系统与机制设计 (System & Mechanism Design)
-- [待补充]
-
-### 3.5 玩家研究 (Player Research)
-- [Player Motivation Model](talks/player-research/gdc-nick-yee-player-motivation.md) - Nick Yee
-
-### 3.6 技术实现 (Technical Implementation)
-- [待补充]
-
-### 3.7 运营与商业化 (Operations & Monetization)
 - [待补充]
 
 ---
@@ -160,7 +176,83 @@ docs/gdc/
 
 ---
 
-## 7. 统计信息
+## 7. 分类说明
+
+### 7.1 编程技术 (Programming)
+- 游戏引擎开发
+- 性能优化
+- 系统架构
+- 网络编程
+- 工具开发
+- 等等
+
+### 7.2 图形渲染 (Graphics)
+- 渲染管线
+- Shader技术
+- 光照模型
+- 后处理效果
+- GPU优化
+- 等等
+
+### 7.3 音频 (Audio)
+- 音效设计
+- 音乐制作
+- 音频引擎
+- 空间音频
+- 等等
+
+### 7.4 美术 (Art)
+- 概念设计
+- 3D建模
+- 纹理制作
+- 动画制作
+- 等等
+
+### 7.5 游戏设计 (Design)
+- 机制设计
+- 关卡设计
+- 系统设计
+- 数值设计
+- 等等
+
+### 7.6 叙事设计 (Narrative)
+- 故事结构
+- 角色设计
+- 对话系统
+- 等等
+
+### 7.7 人工智能 (AI)
+- AI行为设计
+- 机器学习
+- 程序化生成
+- 等等
+
+### 7.8 虚拟现实/增强现实 (VR/AR)
+- VR/AR技术
+- 交互设计
+- 等等
+
+### 7.9 制作 (Production)
+- 项目管理
+- 团队协作
+- 开发流程
+- 等等
+
+### 7.10 商业与营销 (Business & Marketing)
+- 商业模式
+- 市场分析
+- 用户获取
+- 等等
+
+### 7.11 玩家研究 (Player Research)
+- 玩家行为分析
+- 用户研究
+- 数据分析
+- 等等
+
+---
+
+## 8. 统计信息
 
 - **总演讲数：** 4 (持续更新中)
 - **覆盖年份：** 2015, 2016, 2017
@@ -169,23 +261,24 @@ docs/gdc/
 
 ---
 
-## 8. 使用说明
+## 9. 使用说明
 
-### 8.1 添加新演讲
+### 9.1 添加新演讲
 1. 使用 `TEMPLATE.md` 作为模板
 2. 创建新文档，文件名格式：`gdc-[年份]-[演讲者]-[主题].md`
-3. 按年份或主题分类放入对应目录
-4. 更新本索引文件
+3. 按主题分类放入对应目录（如 `programming/`, `graphics/` 等）
+4. 同时可以按年份放入对应年份目录（可选）
+5. 更新本索引文件
 
-### 8.2 文档维护
+### 9.2 文档维护
 - 尽量保持原始数据的完整性
 - 补充详细的元数据和资源链接
 - 记录收集日期和状态
 - 定期更新内容
 
-### 8.3 检索方式
-- 按年份查找：查看"按年份索引"章节
+### 9.3 检索方式
 - 按主题查找：查看"按主题分类索引"章节
+- 按年份查找：查看"按年份索引"章节
 - 按演讲者查找：查看"按演讲者索引"章节
 - 按标签查找：查看"按标签索引"章节
 
@@ -193,4 +286,4 @@ docs/gdc/
 
 **最后更新：** 2025-12-11  
 **维护者：** game-research-archivist  
-**状态：** 持续更新中
+**状态：** 持续更新中，收集所有类型的GDC分享
