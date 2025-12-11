@@ -8,3 +8,7 @@
 ## 2. 叙事 & 风格（Narrative & Style）
 
 - [从〈疯狂动物城2〉走进 Film Noir 的世界](narrative/noir_from_zootopia2.md)
+
+## 3. GDC 资料（GDC Archive）
+
+- [GDC 资料索引](gdc/index.md) - 以单个分享为粒度的知识仓库
