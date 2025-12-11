@@ -56,6 +56,8 @@ Unite是Unity Technologies主办的全球开发者大会，旨在分享Unity引�
 
 ### 2025
 - [Unity 6 Release and New Features](talks/2025/unite-2025-unity-6-release.md) - Unity Technologies
+- [Unity Multiplayer Solutions](talks/2025/unite-2025-multiplayer-solutions.md) - Unity Technologies
+- [XR Game Development with Unity 6](talks/2025/unite-2025-xr-development.md) - Unity Technologies
 
 ### 2024
 - [Unite 2024 Keynote: Unity's Vision for the Future](talks/2024/unite-2024-keynote.md) - Unity Technologies

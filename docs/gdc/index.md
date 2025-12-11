@@ -80,6 +80,9 @@ docs/gdc/
 - [AI in Game Development: Google's Perspective](../talks/2025/gdc-2025-google-ai-game-development.md) - Google (2025)
 - [AI and Gaming: NVIDIA's Latest Innovations](../talks/2025/gdc-2025-nvidia-ai-gaming.md) - NVIDIA (2025)
 - [AI in VR/MR: Meta's Latest Developments](../talks/2025/gdc-2025-meta-ai-vr-mr.md) - Meta (2025)
+- [AI-Powered NPC Dialogue Systems](../talks/2025/gdc-2025-ai-npc-dialogue.md) (2025)
+- [AI-Driven Procedural Content Generation](../talks/2025/gdc-2025-ai-procedural-generation.md) (2025)
+- [AI-Powered Game Testing](../talks/2025/gdc-2025-ai-testing.md) (2025)
 
 ### 2.8 虚拟现实/增强现实 (VR/AR)
 - [VR Game Design: Lessons from Oculus](../talks/vr-ar/gdc-vr-game-design-oculus.md) - Oculus团队
@@ -173,15 +176,38 @@ docs/gdc/
 
 **其他主题分类：**
 - [Game Performance Optimization Techniques](talks/2025/gdc-2025-programming-optimization.md) - 编程技术
+- [Game Engine Architecture Design](talks/2025/gdc-2025-programming-engine-architecture.md) - 编程技术
+- [Network Programming in Multiplayer Games](talks/2025/gdc-2025-programming-networking.md) - 编程技术
+- [Game Development Tools and Automation](talks/2025/gdc-2025-programming-tools.md) - 编程技术
 - [Modern Game Rendering Pipeline](talks/2025/gdc-2025-graphics-rendering-pipeline.md) - 图形渲染
+- [Advanced Lighting Techniques in Games](talks/2025/gdc-2025-graphics-lighting.md) - 图形渲染
+- [Modern Shader Development Techniques](talks/2025/gdc-2025-graphics-shader.md) - 图形渲染
+- [Post-Processing Effects in Modern Games](talks/2025/gdc-2025-graphics-post-processing.md) - 图形渲染
 - [Spatial Audio Implementation in Modern Games](talks/2025/gdc-2025-audio-spatial-sound.md) - 音频
+- [Music Production for Games](talks/2025/gdc-2025-audio-music-production.md) - 音频
+- [Game Audio Engine Architecture](talks/2025/gdc-2025-audio-engine.md) - 音频
 - [Character Design in AAA Games](talks/2025/gdc-2025-art-character-design.md) - 美术
+- [3D Modeling Workflow in Game Production](talks/2025/gdc-2025-art-3d-modeling.md) - 美术
+- [Animation Production Pipeline](talks/2025/gdc-2025-art-animation.md) - 美术
 - [Level Design Best Practices](talks/2025/gdc-2025-design-level-design.md) - 游戏设计
+- [Core Mechanic Design Principles](talks/2025/gdc-2025-design-mechanic-design.md) - 游戏设计
+- [Game System Design Methodology](talks/2025/gdc-2025-design-system-design.md) - 游戏设计
+- [Numeric Design in Game Systems](talks/2025/gdc-2025-design-numeric-design.md) - 游戏设计
 - [Interactive Storytelling in Games](talks/2025/gdc-2025-narrative-storytelling.md) - 叙事设计
+- [Character Development in Game Narratives](talks/2025/gdc-2025-narrative-character-development.md) - 叙事设计
+- [Branching Narrative Design](talks/2025/gdc-2025-narrative-branching.md) - 叙事设计
 - [Immersive Design in VR Games](talks/2025/gdc-2025-vr-immersive-design.md) - VR/AR
+- [Motion Control in VR Games](talks/2025/gdc-2025-vr-motion-control.md) - VR/AR
+- [AR Game Design Principles](talks/2025/gdc-2025-vr-ar-design.md) - VR/AR
 - [Large Team Management in Game Development](talks/2025/gdc-2025-production-team-management.md) - 制作
+- [Agile Development in Game Production](talks/2025/gdc-2025-production-agile.md) - 制作
+- [Game Production Pipeline Optimization](talks/2025/gdc-2025-production-pipeline.md) - 制作
 - [Game Monetization Strategies 2025](talks/2025/gdc-2025-business-monetization.md) - 商业与营销
+- [User Acquisition Strategies for Games](talks/2025/gdc-2025-business-user-acquisition.md) - 商业与营销
+- [Game Market Analysis and Trends](talks/2025/gdc-2025-business-market-analysis.md) - 商业与营销
 - [Player Analytics and Behavior Research](talks/2025/gdc-2025-player-research-analytics.md) - 玩家研究
+- [Player Behavior Analysis Methods](talks/2025/gdc-2025-player-research-behavior.md) - 玩家研究
+- [User Experience Research in Games](talks/2025/gdc-2025-player-research-ux.md) - 玩家研究
 
 ---
 

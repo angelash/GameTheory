@@ -83,6 +83,12 @@ Unreal Fest是由Epic Games主办的年度盛会，汇聚全球虚幻引擎开�
 
 **Tokyo站：**
 - [Unreal Fest Tokyo 2025 Keynote](talks/2025/unreal-fest-2025-tokyo-keynote.md) - Epic Games
+- [Unreal Engine Technical Deep Dive](talks/2025/unreal-fest-2025-tokyo-technical.md) - Epic Games
+
+**其他技术分享：**
+- [Advanced Rendering Techniques in Unreal Engine 5.6](talks/2025/unreal-fest-2025-orlando-rendering.md) - Orlando站
+- [Performance Optimization in Unreal Engine 5.6](talks/2025/unreal-fest-2025-orlando-performance.md) - Orlando站
+- [Unreal Engine Case Studies from Chinese Developers](talks/2025/unreal-fest-2025-shanghai-case-study.md) - Shanghai站
 
 ### 2024
 - [Unreal Fest Shanghai 2024](talks/2024/unreal-fest-2024-shanghai.md) - 2024年9月5日-6日

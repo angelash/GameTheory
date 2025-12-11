@@ -60,6 +60,9 @@ UWA Day是由UWA（侑虎科技）主办的年度技术大会，旨在分享游�
 - [游戏性能优化实践](talks/2025/uwa-day-2025-performance-optimization.md)
 - [引擎技术深度解析](talks/2025/uwa-day-2025-engine-technology.md)
 - [研发工具与实践](talks/2025/uwa-day-2025-development-tools.md)
+- [游戏内存管理优化实践](talks/2025/uwa-day-2025-memory-management.md)
+- [渲染优化技术与实践](talks/2025/uwa-day-2025-rendering-optimization.md)
+- [游戏项目优化案例分享](talks/2025/uwa-day-2025-project-case.md)
 
 ### 2024
 - [UWA Day 2024](talks/2024/uwa-day-2024.md)
