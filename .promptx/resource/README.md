@@ -24,6 +24,11 @@
 - 专注：数据驱动的平衡分析
 - 记忆：已保存项目中的平衡分析方法和工作流
 
+### 5. game-research-archivist（游戏资料研究归档师）
+- 文件：`role/game-research-archivist/game-research-archivist.role.md`
+- 专注：游戏开发资料的自动化收集、提炼与归档
+- 能力：GDC资料收集、内容提炼、知识库维护
+
 ## 使用方法
 
 ### 在 Cursor 中使用
@@ -58,6 +63,7 @@
 - **game-narrative-designer**：Film Noir框架、城市系统、真相曲线
 - **game-system-designer**：系统化思维、机制联动、健康度管理
 - **game-balance-analyst**：不平衡识别、数据分析、修复策略
+- **game-research-archivist**：资料收集方法、内容提炼技巧、归档规范
 
 这些记忆会随着使用不断积累，让角色越来越智能。
 
