@@ -1,0 +1,17 @@
+{
+  "orchestrator": {
+    "task_file": "autorun/tasks.json",
+    "input_dir": "cursor_workspace/input",
+    "output_dir": "cursor_workspace/output",
+    "archive_dir": "cursor_workspace/archive",
+    "batch_size": 20,
+    "poll_interval": 10,
+    "output_timeout": 3600
+  },
+  "worker": {
+    "role": "cursor-worker",
+    "output_format": "json",
+    "template": "docs/gdc/talks/TEMPLATE.md"
+  }
+}
+

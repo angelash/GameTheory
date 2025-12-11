@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "type": "topic",
+    "title": "WebGPU 在浏览器中的实现原理",
+    "status": "pending",
+    "priority": 1,
+    "description": "收集和整理 WebGPU 在浏览器中的实现原理相关资料"
+  },
+  {
+    "id": 2,
+    "type": "url",
+    "url": "https://developer.chrome.com/docs/webgpu",
+    "status": "pending",
+    "priority": 2,
+    "title": "Chrome WebGPU 文档"
+  },
+  {
+    "id": 3,
+    "type": "topic",
+    "title": "游戏数值平衡的六维体验模型",
+    "status": "pending",
+    "priority": 1,
+    "description": "整理游戏数值平衡相关的设计方法和理论"
+  }
+]
+
