@@ -29,6 +29,11 @@
 - 专注：游戏开发资料的自动化收集、提炼与归档
 - 能力：GDC资料收集、内容提炼、知识库维护
 
+### 6. gdc-collection-pm（GDC资料收集项目经理）
+- 文件：`role/gdc-collection-pm/gdc-collection-pm.role.md`
+- 专注：监督和管理GDC资料收集任务
+- 能力：任务规划、执行监督、自动协调、质量检查
+
 ## 使用方法
 
 ### 在 Cursor 中使用
@@ -64,6 +69,7 @@
 - **game-system-designer**：系统化思维、机制联动、健康度管理
 - **game-balance-analyst**：不平衡识别、数据分析、修复策略
 - **game-research-archivist**：资料收集方法、内容提炼技巧、归档规范
+- **gdc-collection-pm**：项目管理方法、任务监督、自动协调
 
 这些记忆会随着使用不断积累，让角色越来越智能。
 
