@@ -72,7 +72,17 @@ Unreal Fest是由Epic Games主办的年度盛会，汇聚全球虚幻引擎开�
 ## 3. 按年份索引
 
 ### 2025
-- [Unreal Engine 5.6: Latest Updates and Future Directions](talks/2025/unreal-fest-2025-orlando-tim-sweeney-keynote.md) - Tim Sweeney (Orlando)
+
+**Orlando站：**
+- [Unreal Engine 5.6: Latest Updates and Future Directions](talks/2025/unreal-fest-2025-orlando-tim-sweeney-keynote.md) - Tim Sweeney
+- [The Witcher 4: UE5.6 Technical Demonstration](talks/2025/unreal-fest-2025-orlando-cd-projekt-witcher4.md) - CD Projekt Red
+- [Unreal Engine 5.6 Official Release](talks/2025/unreal-fest-2025-orlando-ue56-release.md) - Epic Games
+
+**Shanghai站：**
+- [Unreal Fest Shanghai 2025 Keynote](talks/2025/unreal-fest-2025-shanghai-keynote.md) - Epic Games
+
+**Tokyo站：**
+- [Unreal Fest Tokyo 2025 Keynote](talks/2025/unreal-fest-2025-tokyo-keynote.md) - Epic Games
 
 ### 2024
 - [Unreal Fest Shanghai 2024](talks/2024/unreal-fest-2024-shanghai.md) - 2024年9月5日-6日

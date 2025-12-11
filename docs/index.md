@@ -36,3 +36,4 @@
 - [2025年会议资料收集计划](collection-plan-2025.md) - 2025年详细收集计划，任务拆分和执行标准
 - [2025年会议资料收集进度报告](collection-plan-2025-progress.md) - 实时进度跟踪
 - [2025年会议资料收集执行日志](collection-plan-2025-execution-log.md) - 详细执行记录
+- [2025年会议资料收集完成报告](collection-plan-2025-completion-report.md) - 任务完成情况总结

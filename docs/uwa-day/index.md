@@ -57,6 +57,9 @@ UWA Day是由UWA（侑虎科技）主办的年度技术大会，旨在分享游�
 
 ### 2025
 - [UWA Day 2025: 十年筑基，驱动游戏未来引擎](talks/2025/uwa-day-2025.md) - 2025年8月1日-2日
+- [游戏性能优化实践](talks/2025/uwa-day-2025-performance-optimization.md)
+- [引擎技术深度解析](talks/2025/uwa-day-2025-engine-technology.md)
+- [研发工具与实践](talks/2025/uwa-day-2025-development-tools.md)
 
 ### 2024
 - [UWA Day 2024](talks/2024/uwa-day-2024.md)

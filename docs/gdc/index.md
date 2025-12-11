@@ -134,20 +134,54 @@ docs/gdc/
 - [待补充]
 
 ### 2025
+
+**主题演讲：**
+- [State of Unreal 2025](talks/2025/gdc-2025-keynote-state-of-unreal.md) - Epic Games
+- [Unity Keynote 2025](talks/2025/gdc-2025-keynote-unity.md) - Unity Technologies
+- [Nintendo Keynote 2025](talks/2025/gdc-2025-keynote-nintendo.md) - Nintendo
+
 **AI相关：**
 - [多模态大语言模型与游戏核心玩法结合](talks/2025/gdc-2025-tencent-ai-game-development.md) - 腾讯游戏
 - [移动游戏AI反作弊路径](talks/2025/gdc-2025-tencent-mobile-game-ai-anti-cheat.md) - 腾讯游戏
 - [AI提升3D建筑物资产生成效率](talks/2025/gdc-2025-tencent-3d-building-generation.md) - 腾讯游戏
+- [腾讯游戏AI应用实践（四）](talks/2025/gdc-2025-tencent-ai-4.md) - 腾讯游戏
+- [腾讯游戏AI应用实践（五）](talks/2025/gdc-2025-tencent-ai-5.md) - 腾讯游戏
+- [腾讯游戏AI应用实践（六）](talks/2025/gdc-2025-tencent-ai-6.md) - 腾讯游戏
+- [腾讯游戏AI应用实践（七）](talks/2025/gdc-2025-tencent-ai-7.md) - 腾讯游戏
 - [AI in Game Development: Google's Perspective](talks/2025/gdc-2025-google-ai-game-development.md) - Google
 - [AI and Gaming: NVIDIA's Latest Innovations](talks/2025/gdc-2025-nvidia-ai-gaming.md) - NVIDIA
 - [AI in VR/MR: Meta's Latest Developments](talks/2025/gdc-2025-meta-ai-vr-mr.md) - Meta
 
-**中国厂商其他演讲：**
+**中国厂商演讲：**
 - [腾讯游戏渲染技术分享](talks/2025/gdc-2025-tencent-rendering-technology.md) - 腾讯游戏
 - [跨端游戏开发技术实践](talks/2025/gdc-2025-tencent-cross-platform-development.md) - 腾讯游戏
+- [腾讯游戏用户研究实践](talks/2025/gdc-2025-tencent-user-research.md) - 腾讯游戏
+- [腾讯游戏服务型游戏开发经验](talks/2025/gdc-2025-tencent-service-game.md) - 腾讯游戏
+- [腾讯游戏设计实践分享（一）](talks/2025/gdc-2025-tencent-game-design-1.md) - 腾讯游戏
+- [腾讯游戏设计实践分享（二）](talks/2025/gdc-2025-tencent-game-design-2.md) - 腾讯游戏
+- [腾讯游戏设计实践分享（三）](talks/2025/gdc-2025-tencent-game-design-3.md) - 腾讯游戏
+- [腾讯游戏设计实践分享（四）](talks/2025/gdc-2025-tencent-game-design-4.md) - 腾讯游戏
+- [腾讯游戏编程技术分享（一）](talks/2025/gdc-2025-tencent-programming-1.md) - 腾讯游戏
+- [腾讯游戏编程技术分享（二）](talks/2025/gdc-2025-tencent-programming-2.md) - 腾讯游戏
+- [腾讯游戏制作流程分享（一）](talks/2025/gdc-2025-tencent-production-1.md) - 腾讯游戏
 - [网易游戏设计分享](talks/2025/gdc-2025-netease-game-design.md) - 网易
+- [网易游戏技术分享（二）](talks/2025/gdc-2025-netease-2.md) - 网易
 - [米哈游游戏开发技术分享](talks/2025/gdc-2025-mihoyo-game-development.md) - 米哈游
+- [米哈游技术分享（二）](talks/2025/gdc-2025-mihoyo-2.md) - 米哈游
 - [完美世界游戏设计分享](talks/2025/gdc-2025-perfect-world-game-design.md) - 完美世界
+- [完美世界技术分享（二）](talks/2025/gdc-2025-perfect-world-2.md) - 完美世界
+
+**其他主题分类：**
+- [Game Performance Optimization Techniques](talks/2025/gdc-2025-programming-optimization.md) - 编程技术
+- [Modern Game Rendering Pipeline](talks/2025/gdc-2025-graphics-rendering-pipeline.md) - 图形渲染
+- [Spatial Audio Implementation in Modern Games](talks/2025/gdc-2025-audio-spatial-sound.md) - 音频
+- [Character Design in AAA Games](talks/2025/gdc-2025-art-character-design.md) - 美术
+- [Level Design Best Practices](talks/2025/gdc-2025-design-level-design.md) - 游戏设计
+- [Interactive Storytelling in Games](talks/2025/gdc-2025-narrative-storytelling.md) - 叙事设计
+- [Immersive Design in VR Games](talks/2025/gdc-2025-vr-immersive-design.md) - VR/AR
+- [Large Team Management in Game Development](talks/2025/gdc-2025-production-team-management.md) - 制作
+- [Game Monetization Strategies 2025](talks/2025/gdc-2025-business-monetization.md) - 商业与营销
+- [Player Analytics and Behavior Research](talks/2025/gdc-2025-player-research-analytics.md) - 玩家研究
 
 ---
 
