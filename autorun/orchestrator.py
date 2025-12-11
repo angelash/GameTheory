@@ -211,27 +211,17 @@ def main_loop():
             print("  1. Cursor Worker 尚未处理")
             print("  2. 处理时间超过超时限制")
             print("  3. 输出文件名不匹配")
-            print("\n选择操作：")
-            print("  [1] 回滚任务状态为 pending（重新处理）")
-            print("  [2] 标记为 failed（跳过）")
-            print("  [3] 继续等待（手动检查）")
+            print("\n自动操作：回滚任务状态为 pending（重新处理）")
             
-            # 默认回滚
-            choice = input("请输入选择 (1/2/3，默认1): ").strip() or "1"
-            if choice == "1":
-                for t in tasks:
-                    if t["id"] in {b["id"] for b in batch}:
-                        t["status"] = "pending"
-                        if "started_at" in t:
-                            del t["started_at"]
-                save_tasks(tasks)
-                print("✓ 已回滚任务状态")
-            elif choice == "2":
-                mark_failed(tasks, batch, "输出超时")
-                save_tasks(tasks)
-                print("✓ 已标记为失败")
-            else:
-                print("继续等待，请手动检查...")
+            # 自动回滚，不等待用户输入
+            for t in tasks:
+                if t["id"] in {b["id"] for b in batch}:
+                    t["status"] = "pending"
+                    if "started_at" in t:
+                        del t["started_at"]
+            save_tasks(tasks)
+            print("✓ 已回滚任务状态，将在下一轮重新处理")
+            time.sleep(5)  # 短暂休息后继续
             continue
         
         # 解析输出

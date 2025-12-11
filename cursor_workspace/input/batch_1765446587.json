@@ -1,0 +1,152 @@
+{
+  "batch_name": "batch_1765446587",
+  "created_at": "2025-12-11T17:49:47.241664",
+  "tasks": [
+    {
+      "id": 30,
+      "type": "topic",
+      "title": "收集Unreal Fest 2025更多演讲（目标70-110场，当前15个）",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "继续收集Unreal Fest 2025各站点的更多演讲，包括技术分享、案例解析等",
+      "target_count": 55,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 32,
+      "type": "topic",
+      "title": "收集UWA Day 2025更多演讲（目标15-25场，当前9个）",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "继续收集UWA Day 2025的更多演讲，包括性能优化、引擎技术、工具实践等",
+      "target_count": 16,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 33,
+      "type": "topic",
+      "title": "补充Unite 2025演讲内容（5个文档）",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充Unite 2025所有5个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs/unite/talks/2025/unite-2025-unity-6-release.md",
+        "docs/unite/talks/2025/unite-2025-multiplayer-solutions.md",
+        "docs/unite/talks/2025/unite-2025-xr-development.md",
+        "docs/unite/talks/2025/unite-2025-performance-optimization.md",
+        "docs/unite/talks/2025/unite-2025-graphics-rendering.md"
+      ],
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 34,
+      "type": "topic",
+      "title": "收集Unite 2025更多技术分享（目标33-55场，当前5个）",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "继续收集Unite 2025的更多技术分享，包括引擎技术、图形渲染、性能优化、项目案例等",
+      "target_count": 28,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 16,
+      "type": "topic",
+      "title": "收集GDC 2025更多编程技术类演讲（目标50+场，当前6个）",
+      "status": "in_progress",
+      "priority": 3,
+      "description": "继续收集GDC 2025编程技术类演讲，包括游戏引擎开发、性能优化、系统架构、网络编程、工具开发等方向",
+      "target_count": 44,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 17,
+      "type": "topic",
+      "title": "收集GDC 2025更多图形渲染类演讲（目标30+场，当前5个）",
+      "status": "in_progress",
+      "priority": 3,
+      "description": "继续收集GDC 2025图形渲染类演讲，包括渲染管线技术、Shader技术、光照模型、后处理效果、GPU优化等方向",
+      "target_count": 25,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 18,
+      "type": "topic",
+      "title": "收集GDC 2025更多游戏设计类演讲（目标100+场，当前7个）",
+      "status": "in_progress",
+      "priority": 3,
+      "description": "继续收集GDC 2025游戏设计类演讲，包括机制设计、关卡设计、系统设计、数值设计等方向",
+      "target_count": 93,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 20,
+      "type": "topic",
+      "title": "收集GDC 2025音频类演讲（目标20+场，当前3个）",
+      "status": "in_progress",
+      "priority": 3,
+      "description": "收集GDC 2025音频类演讲，包括音效设计、音乐制作、音频引擎、空间音频等方向",
+      "target_count": 17,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 21,
+      "type": "topic",
+      "title": "收集GDC 2025美术类演讲（目标25+场，当前3个）",
+      "status": "in_progress",
+      "priority": 3,
+      "description": "收集GDC 2025美术类演讲，包括概念设计、3D建模、纹理制作、动画制作、环境美术等方向",
+      "target_count": 22,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 22,
+      "type": "topic",
+      "title": "收集GDC 2025叙事设计类演讲（目标30+场，当前3个）",
+      "status": "in_progress",
+      "priority": 3,
+      "description": "收集GDC 2025叙事设计类演讲，包括故事结构、角色设计、对话系统等方向",
+      "target_count": 27,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 24,
+      "type": "topic",
+      "title": "收集GDC 2025制作类演讲（目标40+场，当前3个）",
+      "status": "in_progress",
+      "priority": 3,
+      "description": "收集GDC 2025制作类演讲，包括项目管理、团队协作、开发流程等方向",
+      "target_count": 37,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 25,
+      "type": "topic",
+      "title": "收集GDC 2025商业类演讲（目标50+场，当前3个）",
+      "status": "in_progress",
+      "priority": 3,
+      "description": "收集GDC 2025商业类演讲，包括商业模式、市场分析、用户获取、货币化策略等方向",
+      "target_count": 47,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 26,
+      "type": "topic",
+      "title": "收集GDC 2025玩家研究类演讲（目标20+场，当前3个）",
+      "status": "in_progress",
+      "priority": 3,
+      "description": "收集GDC 2025玩家研究类演讲，包括玩家行为分析、用户研究、数据分析等方向",
+      "target_count": 17,
+      "started_at": "2025-12-11T17:49:47.240442"
+    },
+    {
+      "id": 23,
+      "type": "topic",
+      "title": "收集GDC 2025 VR/AR类演讲（目标15+场，当前3个）",
+      "status": "in_progress",
+      "priority": 4,
+      "description": "收集GDC 2025 VR/AR类演讲，包括VR技术、AR技术、交互设计等方向",
+      "target_count": 12,
+      "started_at": "2025-12-11T17:49:47.240442"
+    }
+  ]
+}

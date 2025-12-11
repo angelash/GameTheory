@@ -1,0 +1,295 @@
+{
+  "batch_name": "batch_1765446432",
+  "processed_at": "2025-12-11T17:47:30.000000",
+  "results": [
+    {
+      "id": 1,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025主题演讲内容 - State of Unreal 2025",
+        "description": "已检查文档框架，需要从GDC Vault或官方渠道获取具体内容",
+        "target_file": "docs/gdc/talks/2025/gdc-2025-keynote-state-of-unreal.md",
+        "notes": "文档框架完整，但资源链接和详细内容需要从GDC Vault、YouTube或Epic Games官方渠道获取。建议：1) 访问GDC Vault搜索'State of Unreal 2025'；2) 查看Epic Games官方博客；3) 搜索YouTube/Bilibili相关视频"
+      }
+    },
+    {
+      "id": 2,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025主题演讲内容 - Unity Keynote 2025",
+        "description": "已检查文档框架，需要从GDC Vault或官方渠道获取具体内容",
+        "target_file": "docs/gdc/talks/2025/gdc-2025-keynote-unity.md",
+        "notes": "文档框架完整，但资源链接和详细内容需要从GDC Vault、YouTube或Unity官方渠道获取。建议：1) 访问GDC Vault搜索'Unity Keynote 2025'；2) 查看Unity官方博客；3) 搜索YouTube/Bilibili相关视频"
+      }
+    },
+    {
+      "id": 3,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025主题演讲内容 - Nintendo Keynote 2025",
+        "description": "已检查文档框架，需要从GDC Vault或官方渠道获取具体内容",
+        "target_file": "docs/gdc/talks/2025/gdc-2025-keynote-nintendo.md",
+        "notes": "文档框架完整，但资源链接和详细内容需要从GDC Vault或Nintendo官方渠道获取。注意：Nintendo的GDC演讲通常不会公开视频，可能需要从会议摘要或参会者笔记中获取信息"
+      }
+    },
+    {
+      "id": 4,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025腾讯游戏AI相关演讲内容（10个文档）",
+        "description": "已检查10个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-tencent-ai-game-development.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-mobile-game-ai-anti-cheat.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-3d-building-generation.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-ai-4.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-ai-5.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-ai-6.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-ai-7.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-ai-8.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-ai-9.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-ai-10.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'Tencent AI GDC 2025'；2) 查看腾讯游戏官方技术博客；3) 搜索中文技术社区（如游戏葡萄、游戏大观等）的相关报道；4) 查看Bilibili是否有相关视频"
+      }
+    },
+    {
+      "id": 5,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025腾讯游戏设计与研发演讲内容（10个文档）",
+        "description": "已检查10个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-1.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-2.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-3.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-4.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-5.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-6.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-7.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-8.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-9.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-game-design-10.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'Tencent Game Design GDC 2025'；2) 查看腾讯游戏官方技术博客；3) 搜索中文技术社区的相关报道"
+      }
+    },
+    {
+      "id": 6,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025腾讯游戏编程技术演讲内容（3个文档）",
+        "description": "已检查3个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-tencent-programming-1.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-programming-2.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-programming-3.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'Tencent Programming GDC 2025'；2) 查看腾讯游戏官方技术博客"
+      }
+    },
+    {
+      "id": 7,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025腾讯游戏制作相关演讲内容（2个文档）",
+        "description": "已检查2个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-tencent-production-1.md",
+          "docs/gdc/talks/2025/gdc-2025-tencent-production-2.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'Tencent Production GDC 2025'；2) 查看腾讯游戏官方技术博客"
+      }
+    },
+    {
+      "id": 8,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025网易游戏演讲内容（4个文档）",
+        "description": "已检查3个文档框架（netease-2, 3, 4），需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-netease-2.md",
+          "docs/gdc/talks/2025/gdc-2025-netease-3.md",
+          "docs/gdc/talks/2025/gdc-2025-netease-4.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'NetEase GDC 2025'；2) 查看网易游戏官方技术博客；3) 搜索中文技术社区的相关报道"
+      }
+    },
+    {
+      "id": 9,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025米哈游演讲内容（4个文档）",
+        "description": "已检查3个文档框架（mihoyo-2, 3, 4），需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-mihoyo-2.md",
+          "docs/gdc/talks/2025/gdc-2025-mihoyo-3.md",
+          "docs/gdc/talks/2025/gdc-2025-mihoyo-4.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'MiHoYo GDC 2025'或'HoYoverse GDC 2025'；2) 查看米哈游官方技术博客；3) 搜索中文技术社区的相关报道"
+      }
+    },
+    {
+      "id": 10,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025完美世界演讲内容（4个文档）",
+        "description": "已检查3个文档框架（perfect-world-2, 3, 4），需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-perfect-world-2.md",
+          "docs/gdc/talks/2025/gdc-2025-perfect-world-3.md",
+          "docs/gdc/talks/2025/gdc-2025-perfect-world-4.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'Perfect World GDC 2025'；2) 查看完美世界官方技术博客；3) 搜索中文技术社区的相关报道"
+      }
+    },
+    {
+      "id": 11,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025其他AI相关演讲内容（3个文档）",
+        "description": "已检查3个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-google-ai-game-development.md",
+          "docs/gdc/talks/2025/gdc-2025-nvidia-ai-gaming.md",
+          "docs/gdc/talks/2025/gdc-2025-meta-ai-vr-mr.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索各公司的AI相关演讲；2) 查看Google、NVIDIA、Meta的官方技术博客；3) 搜索YouTube相关视频"
+      }
+    },
+    {
+      "id": 12,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025编程技术类演讲内容（6个文档）",
+        "description": "已检查5个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-programming-engine-architecture.md",
+          "docs/gdc/talks/2025/gdc-2025-programming-networking.md",
+          "docs/gdc/talks/2025/gdc-2025-programming-optimization.md",
+          "docs/gdc/talks/2025/gdc-2025-programming-memory.md",
+          "docs/gdc/talks/2025/gdc-2025-programming-tools.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'Programming GDC 2025'；2) 查看各技术博客的相关报道；3) 搜索YouTube/Bilibili相关视频"
+      }
+    },
+    {
+      "id": 13,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025图形渲染类演讲内容（5个文档）",
+        "description": "已检查5个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-graphics-rendering-pipeline.md",
+          "docs/gdc/talks/2025/gdc-2025-graphics-shader.md",
+          "docs/gdc/talks/2025/gdc-2025-graphics-lighting.md",
+          "docs/gdc/talks/2025/gdc-2025-graphics-post-processing.md",
+          "docs/gdc/talks/2025/gdc-2025-graphics-gpu-compute.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'Graphics GDC 2025'；2) 查看各技术博客的相关报道；3) 搜索YouTube/Bilibili相关视频"
+      }
+    },
+    {
+      "id": 14,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025游戏设计类演讲内容（7个文档）",
+        "description": "已检查5个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/gdc/talks/2025/gdc-2025-design-mechanic-design.md",
+          "docs/gdc/talks/2025/gdc-2025-design-level-design.md",
+          "docs/gdc/talks/2025/gdc-2025-design-system-design.md",
+          "docs/gdc/talks/2025/gdc-2025-design-numeric-design.md",
+          "docs/gdc/talks/2025/gdc-2025-design-balance.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问GDC Vault搜索'Game Design GDC 2025'；2) 查看各技术博客的相关报道；3) 搜索YouTube/Bilibili相关视频"
+      }
+    },
+    {
+      "id": 15,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025其他主题分类演讲内容（剩余文档）",
+        "description": "需要识别并补充音频、美术、叙事、VR/AR、制作、商业、玩家研究等主题的剩余文档",
+        "notes": "建议：1) 列出所有待补充的文档；2) 按主题分类处理；3) 访问GDC Vault搜索各主题相关内容"
+      }
+    },
+    {
+      "id": 19,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025更多AI相关演讲（目标50+场，当前13个）",
+        "description": "需要继续创建37个新的AI相关演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索AI相关演讲列表；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 27,
+      "status": "partial",
+      "result": {
+        "title": "补充Unreal Fest 2025 Orlando站演讲内容（6个文档）",
+        "description": "已检查6个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-tim-sweeney-keynote.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-cd-projekt-witcher4.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-ue56-release.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-rendering.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-performance.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-networking.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问Unreal Fest 2025 Orlando官方页面；2) 查看Epic Games官方YouTube频道；3) 搜索相关技术博客"
+      }
+    },
+    {
+      "id": 28,
+      "status": "partial",
+      "result": {
+        "title": "补充Unreal Fest 2025 Shanghai站演讲内容（4个文档）",
+        "description": "已检查4个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-keynote.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-case-study.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-technical-1.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-technical-2.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问Unreal Fest 2025 Shanghai官方页面；2) 查看Epic Games中国官方渠道；3) 搜索中文技术社区的相关报道；4) 查看Bilibili相关视频"
+      }
+    },
+    {
+      "id": 29,
+      "status": "partial",
+      "result": {
+        "title": "补充Unreal Fest 2025 Tokyo站演讲内容（3个文档）",
+        "description": "已检查3个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-keynote.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-technical-1.md",
+          "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-technical-2.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问Unreal Fest 2025 Tokyo官方页面；2) 查看Epic Games日本官方渠道；3) 搜索相关技术博客"
+      }
+    },
+    {
+      "id": 31,
+      "status": "partial",
+      "result": {
+        "title": "补充UWA Day 2025演讲内容（9个文档）",
+        "description": "已检查1个文档框架（uwa-day-2025.md），需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/uwa-day/talks/2025/uwa-day-2025.md"
+        ],
+        "notes": "文档框架完整。建议：1) 访问UWA Day 2025官方页面；2) 查看UWA官方博客和视频；3) 搜索中文技术社区的相关报道；4) 查看Bilibili相关视频"
+      }
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "processed": 20,
+    "partial": 19,
+    "pending": 1,
+    "failed": 0,
+    "processing_time": "约5分钟",
+    "notes": "所有任务都已检查，文档框架完整。但由于GDC 2025和Unreal Fest 2025的具体内容需要从官方渠道（GDC Vault、YouTube、官方博客等）获取，当前无法自动补充详细内容。建议后续：1) 访问GDC Vault获取演讲视频和PPT；2) 查看各公司官方博客和技术分享；3) 搜索中文技术社区的相关报道；4) 逐步补充每个文档的资源链接和详细内容"
+  }
+}
+

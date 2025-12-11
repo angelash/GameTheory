@@ -1,0 +1,149 @@
+{
+  "batch_name": "batch_1765446587",
+  "processed_at": "2025-12-11T17:50:00.000000",
+  "results": [
+    {
+      "id": 30,
+      "status": "pending",
+      "result": {
+        "title": "收集Unreal Fest 2025更多演讲（目标70-110场，当前15个）",
+        "description": "需要继续创建55个新的Unreal Fest 2025演讲文档",
+        "notes": "建议：1) 访问Unreal Fest 2025各站点官方页面；2) 查看会议日程表；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 32,
+      "status": "pending",
+      "result": {
+        "title": "收集UWA Day 2025更多演讲（目标15-25场，当前9个）",
+        "description": "需要继续创建16个新的UWA Day 2025演讲文档",
+        "notes": "建议：1) 访问UWA Day 2025官方页面；2) 查看会议日程表；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 33,
+      "status": "partial",
+      "result": {
+        "title": "补充Unite 2025演讲内容（5个文档）",
+        "description": "已检查5个文档框架，需要补充资源链接和详细内容",
+        "target_files": [
+          "docs/unite/talks/2025/unite-2025-unity-6-release.md",
+          "docs/unite/talks/2025/unite-2025-multiplayer-solutions.md",
+          "docs/unite/talks/2025/unite-2025-xr-development.md",
+          "docs/unite/talks/2025/unite-2025-performance-optimization.md",
+          "docs/unite/talks/2025/unite-2025-graphics-rendering.md"
+        ],
+        "notes": "所有文档框架完整。建议：1) 访问Unite 2025官方页面；2) 查看Unity官方博客和YouTube频道；3) 搜索相关技术博客"
+      }
+    },
+    {
+      "id": 34,
+      "status": "pending",
+      "result": {
+        "title": "收集Unite 2025更多技术分享（目标33-55场，当前5个）",
+        "description": "需要继续创建28个新的Unite 2025技术分享文档",
+        "notes": "建议：1) 访问Unite 2025官方页面；2) 查看会议日程表；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 16,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025更多编程技术类演讲（目标50+场，当前6个）",
+        "description": "需要继续创建44个新的编程技术类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索Programming相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 17,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025更多图形渲染类演讲（目标30+场，当前5个）",
+        "description": "需要继续创建25个新的图形渲染类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索Graphics相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 18,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025更多游戏设计类演讲（目标100+场，当前7个）",
+        "description": "需要继续创建93个新的游戏设计类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索Game Design相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 20,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025音频类演讲（目标20+场，当前3个）",
+        "description": "需要继续创建17个新的音频类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索Audio相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 21,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025美术类演讲（目标25+场，当前3个）",
+        "description": "需要继续创建22个新的美术类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索Art相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 22,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025叙事设计类演讲（目标30+场，当前3个）",
+        "description": "需要继续创建27个新的叙事设计类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索Narrative相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 24,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025制作类演讲（目标40+场，当前3个）",
+        "description": "需要继续创建37个新的制作类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索Production相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 25,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025商业类演讲（目标50+场，当前3个）",
+        "description": "需要继续创建47个新的商业类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索Business相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 26,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025玩家研究类演讲（目标20+场，当前3个）",
+        "description": "需要继续创建17个新的玩家研究类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索Player Research相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    },
+    {
+      "id": 23,
+      "status": "pending",
+      "result": {
+        "title": "收集GDC 2025 VR/AR类演讲（目标15+场，当前3个）",
+        "description": "需要继续创建12个新的VR/AR类演讲文档",
+        "notes": "建议：1) 访问GDC 2025官方日程表；2) 搜索VR/AR相关演讲；3) 为每个演讲创建文档框架；4) 逐步补充内容"
+      }
+    }
+  ],
+  "summary": {
+    "total": 14,
+    "processed": 14,
+    "partial": 1,
+    "pending": 13,
+    "failed": 0,
+    "processing_time": "约3分钟",
+    "notes": "大部分任务是新建文档任务，需要从GDC/Unreal Fest/UWA Day官方日程表中查找具体演讲信息。建议：1) 访问各会议官方页面获取完整日程表；2) 为每个演讲创建文档框架；3) 逐步补充内容"
+  }
+}
+

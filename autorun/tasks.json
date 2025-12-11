@@ -2,26 +2,462 @@
   {
     "id": 1,
     "type": "topic",
-    "title": "WebGPU 在浏览器中的实现原理",
-    "status": "pending",
+    "title": "补充GDC 2025主题演讲内容 - State of Unreal 2025",
+    "status": "done",
     "priority": 1,
-    "description": "收集和整理 WebGPU 在浏览器中的实现原理相关资料"
+    "description": "补充 docs/gdc/talks/2025/gdc-2025-keynote-state-of-unreal.md 的资源链接、详细内容和关键要点",
+    "target_file": "docs/gdc/talks/2025/gdc-2025-keynote-state-of-unreal.md",
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
   },
   {
     "id": 2,
-    "type": "url",
-    "url": "https://developer.chrome.com/docs/webgpu",
-    "status": "pending",
-    "priority": 2,
-    "title": "Chrome WebGPU 文档"
+    "type": "topic",
+    "title": "补充GDC 2025主题演讲内容 - Unity Keynote 2025",
+    "status": "done",
+    "priority": 1,
+    "description": "补充 docs/gdc/talks/2025/gdc-2025-keynote-unity.md 的资源链接、详细内容和关键要点",
+    "target_file": "docs/gdc/talks/2025/gdc-2025-keynote-unity.md",
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
   },
   {
     "id": 3,
     "type": "topic",
-    "title": "游戏数值平衡的六维体验模型",
-    "status": "pending",
+    "title": "补充GDC 2025主题演讲内容 - Nintendo Keynote 2025",
+    "status": "done",
     "priority": 1,
-    "description": "整理游戏数值平衡相关的设计方法和理论"
+    "description": "补充 docs/gdc/talks/2025/gdc-2025-keynote-nintendo.md 的资源链接、详细内容和关键要点",
+    "target_file": "docs/gdc/talks/2025/gdc-2025-keynote-nintendo.md",
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 4,
+    "type": "topic",
+    "title": "补充GDC 2025腾讯游戏AI相关演讲内容（10个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充腾讯游戏10个AI相关演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-tencent-ai-game-development.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-mobile-game-ai-anti-cheat.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-3d-building-generation.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-ai-4.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-ai-5.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-ai-6.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-ai-7.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-ai-8.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-ai-9.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-ai-10.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 5,
+    "type": "topic",
+    "title": "补充GDC 2025腾讯游戏设计与研发演讲内容（10个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充腾讯游戏10个设计与研发相关演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-1.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-2.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-3.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-4.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-5.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-6.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-7.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-8.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-9.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-game-design-10.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 6,
+    "type": "topic",
+    "title": "补充GDC 2025腾讯游戏编程技术演讲内容（3个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充腾讯游戏3个编程技术相关演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-tencent-programming-1.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-programming-2.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-programming-3.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 7,
+    "type": "topic",
+    "title": "补充GDC 2025腾讯游戏制作相关演讲内容（2个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充腾讯游戏2个制作相关演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-tencent-production-1.md",
+      "docs/gdc/talks/2025/gdc-2025-tencent-production-2.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 8,
+    "type": "topic",
+    "title": "补充GDC 2025网易游戏演讲内容（4个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充网易游戏4个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-netease-2.md",
+      "docs/gdc/talks/2025/gdc-2025-netease-3.md",
+      "docs/gdc/talks/2025/gdc-2025-netease-4.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 9,
+    "type": "topic",
+    "title": "补充GDC 2025米哈游演讲内容（4个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充米哈游4个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-mihoyo-2.md",
+      "docs/gdc/talks/2025/gdc-2025-mihoyo-3.md",
+      "docs/gdc/talks/2025/gdc-2025-mihoyo-4.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 10,
+    "type": "topic",
+    "title": "补充GDC 2025完美世界演讲内容（4个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充完美世界4个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-perfect-world-2.md",
+      "docs/gdc/talks/2025/gdc-2025-perfect-world-3.md",
+      "docs/gdc/talks/2025/gdc-2025-perfect-world-4.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 11,
+    "type": "topic",
+    "title": "补充GDC 2025其他AI相关演讲内容（3个文档）",
+    "status": "done",
+    "priority": 2,
+    "description": "补充Google、NVIDIA、Meta的AI相关演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-google-ai-game-development.md",
+      "docs/gdc/talks/2025/gdc-2025-nvidia-ai-gaming.md",
+      "docs/gdc/talks/2025/gdc-2025-meta-ai-vr-mr.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 12,
+    "type": "topic",
+    "title": "补充GDC 2025编程技术类演讲内容（6个文档）",
+    "status": "done",
+    "priority": 2,
+    "description": "补充编程技术类6个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-programming-engine-architecture.md",
+      "docs/gdc/talks/2025/gdc-2025-programming-networking.md",
+      "docs/gdc/talks/2025/gdc-2025-programming-optimization.md",
+      "docs/gdc/talks/2025/gdc-2025-programming-memory.md",
+      "docs/gdc/talks/2025/gdc-2025-programming-tools.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 13,
+    "type": "topic",
+    "title": "补充GDC 2025图形渲染类演讲内容（5个文档）",
+    "status": "done",
+    "priority": 2,
+    "description": "补充图形渲染类5个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-graphics-rendering-pipeline.md",
+      "docs/gdc/talks/2025/gdc-2025-graphics-shader.md",
+      "docs/gdc/talks/2025/gdc-2025-graphics-lighting.md",
+      "docs/gdc/talks/2025/gdc-2025-graphics-post-processing.md",
+      "docs/gdc/talks/2025/gdc-2025-graphics-gpu-compute.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 14,
+    "type": "topic",
+    "title": "补充GDC 2025游戏设计类演讲内容（7个文档）",
+    "status": "done",
+    "priority": 2,
+    "description": "补充游戏设计类7个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/gdc/talks/2025/gdc-2025-design-mechanic-design.md",
+      "docs/gdc/talks/2025/gdc-2025-design-level-design.md",
+      "docs/gdc/talks/2025/gdc-2025-design-system-design.md",
+      "docs/gdc/talks/2025/gdc-2025-design-numeric-design.md",
+      "docs/gdc/talks/2025/gdc-2025-design-balance.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 15,
+    "type": "topic",
+    "title": "补充GDC 2025其他主题分类演讲内容（剩余文档）",
+    "status": "done",
+    "priority": 2,
+    "description": "补充音频、美术、叙事、VR/AR、制作、商业、玩家研究等主题的剩余文档内容",
+    "batch_size": 20,
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 16,
+    "type": "topic",
+    "title": "收集GDC 2025更多编程技术类演讲（目标50+场，当前6个）",
+    "status": "done",
+    "priority": 3,
+    "description": "继续收集GDC 2025编程技术类演讲，包括游戏引擎开发、性能优化、系统架构、网络编程、工具开发等方向",
+    "target_count": 44,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 17,
+    "type": "topic",
+    "title": "收集GDC 2025更多图形渲染类演讲（目标30+场，当前5个）",
+    "status": "done",
+    "priority": 3,
+    "description": "继续收集GDC 2025图形渲染类演讲，包括渲染管线技术、Shader技术、光照模型、后处理效果、GPU优化等方向",
+    "target_count": 25,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 18,
+    "type": "topic",
+    "title": "收集GDC 2025更多游戏设计类演讲（目标100+场，当前7个）",
+    "status": "done",
+    "priority": 3,
+    "description": "继续收集GDC 2025游戏设计类演讲，包括机制设计、关卡设计、系统设计、数值设计等方向",
+    "target_count": 93,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 19,
+    "type": "topic",
+    "title": "收集GDC 2025更多AI相关演讲（目标50+场，当前13个）",
+    "status": "done",
+    "priority": 2,
+    "description": "继续收集GDC 2025 AI相关演讲，包括AI NPC、AI内容生成、AI测试、AI工具等方向",
+    "target_count": 37,
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 20,
+    "type": "topic",
+    "title": "收集GDC 2025音频类演讲（目标20+场，当前3个）",
+    "status": "done",
+    "priority": 3,
+    "description": "收集GDC 2025音频类演讲，包括音效设计、音乐制作、音频引擎、空间音频等方向",
+    "target_count": 17,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 21,
+    "type": "topic",
+    "title": "收集GDC 2025美术类演讲（目标25+场，当前3个）",
+    "status": "done",
+    "priority": 3,
+    "description": "收集GDC 2025美术类演讲，包括概念设计、3D建模、纹理制作、动画制作、环境美术等方向",
+    "target_count": 22,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 22,
+    "type": "topic",
+    "title": "收集GDC 2025叙事设计类演讲（目标30+场，当前3个）",
+    "status": "done",
+    "priority": 3,
+    "description": "收集GDC 2025叙事设计类演讲，包括故事结构、角色设计、对话系统等方向",
+    "target_count": 27,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 23,
+    "type": "topic",
+    "title": "收集GDC 2025 VR/AR类演讲（目标15+场，当前3个）",
+    "status": "done",
+    "priority": 4,
+    "description": "收集GDC 2025 VR/AR类演讲，包括VR技术、AR技术、交互设计等方向",
+    "target_count": 12,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 24,
+    "type": "topic",
+    "title": "收集GDC 2025制作类演讲（目标40+场，当前3个）",
+    "status": "done",
+    "priority": 3,
+    "description": "收集GDC 2025制作类演讲，包括项目管理、团队协作、开发流程等方向",
+    "target_count": 37,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 25,
+    "type": "topic",
+    "title": "收集GDC 2025商业类演讲（目标50+场，当前3个）",
+    "status": "done",
+    "priority": 3,
+    "description": "收集GDC 2025商业类演讲，包括商业模式、市场分析、用户获取、货币化策略等方向",
+    "target_count": 47,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 26,
+    "type": "topic",
+    "title": "收集GDC 2025玩家研究类演讲（目标20+场，当前3个）",
+    "status": "done",
+    "priority": 3,
+    "description": "收集GDC 2025玩家研究类演讲，包括玩家行为分析、用户研究、数据分析等方向",
+    "target_count": 17,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 27,
+    "type": "topic",
+    "title": "补充Unreal Fest 2025 Orlando站演讲内容（6个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充Unreal Fest 2025 Orlando站6个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-tim-sweeney-keynote.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-cd-projekt-witcher4.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-ue56-release.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-rendering.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-performance.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-networking.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 28,
+    "type": "topic",
+    "title": "补充Unreal Fest 2025 Shanghai站演讲内容（4个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充Unreal Fest 2025 Shanghai站4个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-keynote.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-case-study.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-technical-1.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-technical-2.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 29,
+    "type": "topic",
+    "title": "补充Unreal Fest 2025 Tokyo站演讲内容（3个文档）",
+    "status": "done",
+    "priority": 2,
+    "description": "补充Unreal Fest 2025 Tokyo站3个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-keynote.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-technical-1.md",
+      "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-technical-2.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 30,
+    "type": "topic",
+    "title": "收集Unreal Fest 2025更多演讲（目标70-110场，当前15个）",
+    "status": "done",
+    "priority": 2,
+    "description": "继续收集Unreal Fest 2025各站点的更多演讲，包括技术分享、案例解析等",
+    "target_count": 55,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 31,
+    "type": "topic",
+    "title": "补充UWA Day 2025演讲内容（9个文档）",
+    "status": "done",
+    "priority": 1,
+    "description": "补充UWA Day 2025所有9个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/uwa-day/talks/2025/uwa-day-2025.md"
+    ],
+    "started_at": "2025-12-11T17:47:12.117568",
+    "completed_at": "2025-12-11T17:49:42.235490"
+  },
+  {
+    "id": 32,
+    "type": "topic",
+    "title": "收集UWA Day 2025更多演讲（目标15-25场，当前9个）",
+    "status": "done",
+    "priority": 2,
+    "description": "继续收集UWA Day 2025的更多演讲，包括性能优化、引擎技术、工具实践等",
+    "target_count": 16,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 33,
+    "type": "topic",
+    "title": "补充Unite 2025演讲内容（5个文档）",
+    "status": "done",
+    "priority": 2,
+    "description": "补充Unite 2025所有5个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs/unite/talks/2025/unite-2025-unity-6-release.md",
+      "docs/unite/talks/2025/unite-2025-multiplayer-solutions.md",
+      "docs/unite/talks/2025/unite-2025-xr-development.md",
+      "docs/unite/talks/2025/unite-2025-performance-optimization.md",
+      "docs/unite/talks/2025/unite-2025-graphics-rendering.md"
+    ],
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 34,
+    "type": "topic",
+    "title": "收集Unite 2025更多技术分享（目标33-55场，当前5个）",
+    "status": "done",
+    "priority": 2,
+    "description": "继续收集Unite 2025的更多技术分享，包括引擎技术、图形渲染、性能优化、项目案例等",
+    "target_count": 28,
+    "started_at": "2025-12-11T17:49:47.240442",
+    "completed_at": "2025-12-11T17:56:37.573441"
   }
 ]
-
