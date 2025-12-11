@@ -33,3 +33,4 @@
 
 - [会议资料收集情况梳理报告](collection-status-report.md) - 详细列出所有会议的收集情况，按年份、会议、主题分类
 - [所有会议资料收集完成报告](conferences-collection-report.md) - 总体完成情况统计
+- [2025年会议资料收集计划](collection-plan-2025.md) - 2025年详细收集计划，任务拆分和执行标准
