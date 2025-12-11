@@ -74,6 +74,12 @@ docs/gdc/
 ### 2.7 人工智能 (AI)
 - [AI in Game Development: Current Trends and Future Directions](../talks/ai/gdc-ai-game-development-2024.md) (2024/2025)
 - [AI NPC Behavior: Creating Believable Characters](../talks/ai/gdc-ai-npc-behavior.md)
+- [多模态大语言模型与游戏核心玩法结合](../talks/2025/gdc-2025-tencent-ai-game-development.md) - 腾讯游戏 (2025)
+- [移动游戏AI反作弊路径](../talks/2025/gdc-2025-tencent-mobile-game-ai-anti-cheat.md) - 腾讯游戏 (2025)
+- [AI提升3D建筑物资产生成效率](../talks/2025/gdc-2025-tencent-3d-building-generation.md) - 腾讯游戏 (2025)
+- [AI in Game Development: Google's Perspective](../talks/2025/gdc-2025-google-ai-game-development.md) - Google (2025)
+- [AI and Gaming: NVIDIA's Latest Innovations](../talks/2025/gdc-2025-nvidia-ai-gaming.md) - NVIDIA (2025)
+- [AI in VR/MR: Meta's Latest Developments](../talks/2025/gdc-2025-meta-ai-vr-mr.md) - Meta (2025)
 
 ### 2.8 虚拟现实/增强现实 (VR/AR)
 - [VR Game Design: Lessons from Oculus](../talks/vr-ar/gdc-vr-game-design-oculus.md) - Oculus团队
@@ -128,7 +134,20 @@ docs/gdc/
 - [待补充]
 
 ### 2025
-- [待补充]
+**AI相关：**
+- [多模态大语言模型与游戏核心玩法结合](talks/2025/gdc-2025-tencent-ai-game-development.md) - 腾讯游戏
+- [移动游戏AI反作弊路径](talks/2025/gdc-2025-tencent-mobile-game-ai-anti-cheat.md) - 腾讯游戏
+- [AI提升3D建筑物资产生成效率](talks/2025/gdc-2025-tencent-3d-building-generation.md) - 腾讯游戏
+- [AI in Game Development: Google's Perspective](talks/2025/gdc-2025-google-ai-game-development.md) - Google
+- [AI and Gaming: NVIDIA's Latest Innovations](talks/2025/gdc-2025-nvidia-ai-gaming.md) - NVIDIA
+- [AI in VR/MR: Meta's Latest Developments](talks/2025/gdc-2025-meta-ai-vr-mr.md) - Meta
+
+**中国厂商其他演讲：**
+- [腾讯游戏渲染技术分享](talks/2025/gdc-2025-tencent-rendering-technology.md) - 腾讯游戏
+- [跨端游戏开发技术实践](talks/2025/gdc-2025-tencent-cross-platform-development.md) - 腾讯游戏
+- [网易游戏设计分享](talks/2025/gdc-2025-netease-game-design.md) - 网易
+- [米哈游游戏开发技术分享](talks/2025/gdc-2025-mihoyo-game-development.md) - 米哈游
+- [完美世界游戏设计分享](talks/2025/gdc-2025-perfect-world-game-design.md) - 完美世界
 
 ---
 
