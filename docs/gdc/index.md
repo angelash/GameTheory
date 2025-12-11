@@ -47,16 +47,22 @@ docs/gdc/
 ## 2. 按主题分类索引
 
 ### 2.1 编程技术 (Programming)
-- [待补充]
+- [Programming Philosophy](../talks/programming/gdc-john-carmack-programming-philosophy.md) - John Carmack (2012)
+- [The Last of Us: Technical Postmortem](../talks/programming/gdc-naughty-dog-last-of-us-programming.md) - Naughty Dog (2014)
 
 ### 2.2 图形渲染 (Graphics)
-- [待补充]
+- [The Last of Us: Lighting and Rendering](../talks/graphics/gdc-naughty-dog-last-of-us-rendering.md) - Naughty Dog (2014)
+- [Nanite Virtualized Geometry in Unreal Engine 5](../talks/graphics/gdc-epic-unreal-engine-5-nanite.md) - Epic Games (2021)
+- [Blowing from the West: Simulating Wind in 'Ghost of Tsushima'](../talks/graphics/gdc-ghost-of-tsushima-wind-simulation.md) - Sucker Punch (2021)
 
 ### 2.3 音频 (Audio)
-- [待补充]
+- [Audio Implementation in Unity: Best Practices](../talks/audio/gdc-audio-implementation-unity.md) - Unity音频团队
+- [Sound Design in Horror Games: Creating Fear Through Audio](../talks/audio/gdc-sound-design-horror-games.md)
+- [Spatial Audio in Games: 3D Sound Design](../talks/audio/gdc-spatial-audio-3d-sound.md)
 
 ### 2.4 美术 (Art)
-- [待补充]
+- [Concept Art and Character Design in AAA Games](../talks/art/gdc-concept-art-character-design.md)
+- [Environment Art and World Building in Open World Games](../talks/art/gdc-environment-art-world-building.md)
 
 ### 2.5 游戏设计 (Design)
 - [20 Lessons: 20 Years of Magic: The Gathering Design](../talks/2016/gdc-2016-mark-rosewater-20-lessons.md) - Mark Rosewater (2016)
@@ -66,16 +72,20 @@ docs/gdc/
 - [使用平凡的流程创作非凡的故事](../talks/2015/gdc-2015-kodaka-danganronpa-story.md) - 小高和刚 (2015)
 
 ### 2.7 人工智能 (AI)
-- [待补充]
+- [AI in Game Development: Current Trends and Future Directions](../talks/ai/gdc-ai-game-development-2024.md) (2024/2025)
+- [AI NPC Behavior: Creating Believable Characters](../talks/ai/gdc-ai-npc-behavior.md)
 
 ### 2.8 虚拟现实/增强现实 (VR/AR)
-- [待补充]
+- [VR Game Design: Lessons from Oculus](../talks/vr-ar/gdc-vr-game-design-oculus.md) - Oculus团队
+- [VR Interaction Design: Best Practices](../talks/vr-ar/gdc-vr-interaction-design.md)
 
 ### 2.9 制作 (Production)
-- [待补充]
+- [Game Production Pipeline: From Concept to Launch](../talks/production/gdc-game-production-pipeline.md)
+- [Agile Game Development: Managing Large Teams](../talks/production/gdc-agile-game-development.md)
 
 ### 2.10 商业与营销 (Business & Marketing)
-- [待补充]
+- [Free-to-Play Game Monetization: Best Practices](../talks/business/gdc-free-to-play-monetization.md)
+- [Game Marketing Strategies: Reaching Your Audience](../talks/business/gdc-game-marketing-strategies.md)
 
 ### 2.11 玩家研究 (Player Research)
 - [Player Motivation Model](../talks/player-research/gdc-nick-yee-player-motivation.md) - Nick Yee
@@ -254,9 +264,9 @@ docs/gdc/
 
 ## 8. 统计信息
 
-- **总演讲数：** 4 (持续更新中)
-- **覆盖年份：** 2015, 2016, 2017
-- **主题分类：** 游戏设计、叙事设计、玩家研究
+- **总演讲数：** 22 (持续更新中)
+- **覆盖年份：** 2012, 2014, 2015, 2016, 2017, 2021, 2024/2025
+- **主题分类：** 编程技术(2), 图形渲染(3), 音频(3), 美术(2), 游戏设计(2), 叙事设计(1), 人工智能(2), VR/AR(2), 制作(2), 商业(2), 玩家研究(1)
 - **最后更新：** 2025-12-11
 
 ---
