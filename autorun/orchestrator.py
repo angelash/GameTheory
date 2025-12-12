@@ -51,8 +51,13 @@ def save_tasks(tasks: List[Dict]):
 def pick_batch(tasks: List[Dict], batch_size: int) -> List[Dict]:
     """挑选一批待处理任务（按优先级排序）"""
     pending = [t for t in tasks if t.get("status") == "pending"]
+    
+    # 过滤掉需要特殊权限的任务（除非标记为 skipped）
+    pending = [t for t in pending if not (t.get("requires_permission") and t.get("status") != "skipped")]
+    
     # 按 priority 排序（数字越小优先级越高）
     pending.sort(key=lambda x: x.get("priority", 999))
+    
     return pending[:batch_size]
 
 
@@ -83,6 +88,85 @@ def mark_failed(tasks: List[Dict], batch: List[Dict], reason: str = ""):
             t["failed_at"] = datetime.now().isoformat()
             if reason:
                 t["failure_reason"] = reason
+
+
+def mark_partial(tasks: List[Dict], batch: List[Dict], reason: str = ""):
+    """标记任务为部分完成"""
+    ids = {t["id"] for t in batch}
+    for t in tasks:
+        if t["id"] in ids:
+            t["status"] = "partial"
+            t["partial_at"] = datetime.now().isoformat()
+            if reason:
+                t["partial_reason"] = reason
+            # 保持 in_progress 状态，不改为 pending
+
+
+def update_tasks_by_output_status(tasks: List[Dict], batch: List[Dict], output_data: Optional[Dict]):
+    """根据输出文件中的实际状态更新任务状态"""
+    if not output_data:
+        print("⚠ 无法解析输出文件，回滚任务状态")
+        for t in tasks:
+            if t["id"] in {b["id"] for b in batch}:
+                t["status"] = "pending"
+                if "started_at" in t:
+                    del t["started_at"]
+        return
+    
+    # 创建结果映射
+    results_map = {}
+    for result in output_data.get("results", []):
+        task_id = result.get("id")
+        if task_id:
+            results_map[task_id] = result
+    
+    # 根据实际状态更新
+    for task in tasks:
+        if task["id"] not in {b["id"] for b in batch}:
+            continue
+        
+        result = results_map.get(task["id"])
+        if not result:
+            print(f"⚠ 任务 {task['id']} 在输出中未找到，回滚为 pending")
+            task["status"] = "pending"
+            if "started_at" in task:
+                del task["started_at"]
+            continue
+        
+        actual_status = result.get("status", "unknown")
+        
+        if actual_status == "success":
+            # 只有 success 才标记为 done
+            task["status"] = "done"
+            task["completed_at"] = datetime.now().isoformat()
+            if "started_at" in task:
+                del task["started_at"]
+        elif actual_status == "partial":
+            # partial 保持 in_progress 或标记为 partial
+            task["status"] = "partial"
+            task["partial_at"] = datetime.now().isoformat()
+            if result.get("result", {}).get("completion_rate"):
+                task["completion_rate"] = result["result"]["completion_rate"]
+        elif actual_status == "pending":
+            # pending 回滚为 pending
+            task["status"] = "pending"
+            if "started_at" in task:
+                del task["started_at"]
+        elif actual_status == "failed":
+            # failed 标记为 failed
+            task["status"] = "failed"
+            task["failed_at"] = datetime.now().isoformat()
+            if result.get("error"):
+                task["failure_reason"] = result["error"]
+        elif actual_status == "skipped":
+            # skipped 标记为 skipped
+            task["status"] = "skipped"
+            task["skipped_at"] = datetime.now().isoformat()
+            if result.get("result", {}).get("reason"):
+                task["skip_reason"] = result["result"]["reason"]
+        else:
+            print(f"⚠ 任务 {task['id']} 状态未知: {actual_status}，保持 in_progress")
+            # 保持 in_progress
 
 
 def write_input_file(batch: List[Dict], batch_name: str) -> Path:
@@ -233,10 +317,17 @@ def main_loop():
         # 归档输出
         archive_output(output_file, batch_name)
         
-        # 标记完成
-        mark_done(tasks, batch)
+        # 根据实际状态更新任务状态（关键改进）
+        update_tasks_by_output_status(tasks, batch, output_data)
         save_tasks(tasks)
-        print(f"✓ 已标记 {len(batch)} 个任务为完成")
+        
+        # 统计更新结果
+        status_summary = {}
+        for t in tasks:
+            if t["id"] in {b["id"] for b in batch}:
+                status = t.get("status", "unknown")
+                status_summary[status] = status_summary.get(status, 0) + 1
+        print(f"✓ 任务状态更新: {status_summary}")
         
         # 短暂休息
         time.sleep(5)

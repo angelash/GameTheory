@@ -40,9 +40,25 @@
 
 **对于每个任务，执行以下步骤：**
 
+#### 步骤0：任务可执行性检查（必须）
+
+**检查规则：**
+1. **内容补充任务（content_supplement）**
+   - 必须包含 `target_files` 或 `target_file`
+   - 检查文档文件是否存在
+   - 如果文件不存在，返回 `failed`
+
+2. **新建文档任务（create_document）**
+   - 必须包含 `document_list` 或 `schedule_url` 或 `search_keywords`
+   - 如果缺少，返回 `pending` 并提供建议
+
+3. **需要特殊权限的任务**
+   - 如果 `requires_permission == true`，返回 `skipped`
+   - 说明需要什么权限（如GDC Vault账号）
+
 #### 步骤1：信息收集
 - **type: "topic"**：使用网络搜索收集相关资料
-  - 搜索关键词：任务 title
+  - 搜索关键词：任务 title 或 search_keywords
   - 收集权威来源（官方文档、技术博客、论文等）
   - 至少收集 3-5 个高质量来源
   
@@ -51,15 +67,20 @@
   - 提取核心信息
   - 查找相关链接和参考资料
 
-- **type: "paper"**：学术论文处理
-  - 查找论文全文
-  - 提取摘要、方法、结论
-  - 整理关键发现
+- **type: "content_supplement"**：内容补充任务
+  - 检查文档当前状态
+  - 计算完成度（completion_rate）
+  - 如果完成度 < 0.9，返回 `partial`
+  - 如果完成度 >= 0.9，返回 `success`
 
-- **type: "standard"**：标准文档处理
-  - 查找标准文档
-  - 提取规范要点
-  - 整理应用场景
+- **type: "create_document"**：新建文档任务
+  - 如果有 document_list，为每个文档创建框架
+  - 如果有 schedule_url，访问并提取演讲列表
+  - 如果有 search_keywords，搜索并创建文档
+  - 统计创建的文档数量
+  - 如果 created_count == target_count，返回 `success`
+  - 如果 created_count > 0，返回 `partial`
+  - 如果 created_count == 0，返回 `pending`
 
 #### 步骤2：深度阅读
 - 仔细阅读收集的资料
@@ -67,40 +88,50 @@
 - 提取设计原则和方法论
 - 记录重要数据和案例
 
-#### 步骤3：结构化整理
-将信息整理成统一结构：
+#### 步骤3：结构化整理和完成度计算
 
-```markdown
-## 任务ID: {id} - {title}
+**对于内容补充任务，必须计算完成度：**
 
-### 背景
-- 技术/概念的背景和起源
-- 解决的问题和应用场景
+```python
+# 完成度计算标准（量化）
+completion_rate = (
+    metadata_score * 0.2 +      # 元数据完整度（20%）
+    resource_links_score * 0.3 + # 资源链接（30%）
+    summary_score * 0.2 +        # 摘要（20%）
+    content_score * 0.2 +        # 详细内容（20%）
+    key_points_score * 0.1       # 关键要点（10%）
+)
 
-### 核心概念
-- 关键术语和定义
-- 核心原理和机制
-- 架构和设计思路
+# 状态判断
+if completion_rate >= 0.9:
+    status = "success"  # 完成
+elif completion_rate >= 0.5:
+    status = "partial"  # 部分完成
+else:
+    status = "partial"  # 未完成（也标记为partial）
+```
 
-### 关键实现/API
-- 主要接口和方法
-- 实现要点和最佳实践
-- 代码示例（如适用）
+**检查项（量化标准）：**
+- 元数据：至少5个字段（年份、会议、日期、演讲者、分类）
+- 资源链接：至少1个（GDC Vault、视频、PPT等）
+- 摘要：至少100字
+- 详细内容：至少200字
+- 关键要点：至少3个
 
-### 常见问题和坑
-- 常见错误和陷阱
-- 性能考虑
-- 兼容性问题
-
-### 参考链接
-- [链接1](url) - 一句话说明
-- [链接2](url) - 一句话说明
-- ...
-
-### 相关资源
-- 相关工具和库
-- 进一步学习资源
-- 社区和讨论
+**输出格式：**
+```json
+{
+  "id": 1,
+  "status": "success" | "partial" | "pending" | "failed" | "skipped",
+  "result": {
+    "title": "任务标题",
+    "completion_rate": 0.95,  // 完成度（0-1）
+    "created_count": 5,       // 创建的文档数（新建文档任务）
+    "target_count": 5,         // 目标文档数
+    "missing_items": [],       // 缺失的项目（partial时）
+    "notes": "..."             // 备注
+  }
+}
 ```
 
 ### 3. 结果输出阶段
@@ -115,29 +146,36 @@
   "results": [
     {
       "id": 1,
-      "status": "success" | "failed",
+      "status": "success" | "partial" | "pending" | "failed" | "skipped",
       "result": {
         "title": "任务标题",
-        "background": "...",
-        "core_concepts": "...",
-        "key_apis": "...",
-        "common_pitfalls": "...",
-        "references": [
-          {"url": "...", "description": "..."}
-        ],
-        "related_resources": [...]
+        "completion_rate": 1.0,
+        "created_count": 5,
+        "target_count": 5,
+        "missing_items": [],
+        "notes": "..."
       },
       "error": "错误信息（如有）"
     }
   ],
   "summary": {
     "total": 3,
-    "success": 3,
+    "success": 2,
+    "partial": 1,
+    "pending": 0,
     "failed": 0,
+    "skipped": 0,
     "processing_time": "5分钟"
   }
 }
 ```
+
+**状态定义（必须遵守）：**
+- `success`: 任务完全完成，所有要求满足
+- `partial`: 部分完成，需要继续处理
+- `pending`: 无法执行，缺少必要信息
+- `failed`: 执行失败，明确错误
+- `skipped`: 需要特殊权限，暂时跳过
 
 #### Markdown 格式（备选）
 如果输出为 Markdown，使用统一的结构化格式，每个任务一个章节。
