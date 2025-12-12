@@ -1,0 +1,246 @@
+{
+  "batch_name": "batch_1765510119",
+  "created_at": "2025-12-12T11:28:39.762296",
+  "tasks": [
+    {
+      "id": 1000,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-ai-animation",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-ai-animation.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.755230"
+    },
+    {
+      "id": 1001,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-ai-npc-dialogue",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-ai-npc-dialogue.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1002,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-ai-procedural-generation",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-ai-procedural-generation.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1003,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-ai-testing",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-ai-testing.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1004,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-art-3d-modeling",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-art-3d-modeling.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1005,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-art-animation",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-art-animation.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1006,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-art-character-design",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-art-character-design.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1007,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-art-texture-creation",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-art-texture-creation.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1008,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-audio-dynamic-music",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-audio-dynamic-music.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1009,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-audio-engine",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-audio-engine.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1010,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-audio-music-production",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-audio-music-production.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1011,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-audio-spatial-sound",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-audio-spatial-sound.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1012,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-business-branding",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-business-branding.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1013,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-business-market-analysis",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-business-market-analysis.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1014,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-business-monetization",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-business-monetization.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1015,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-business-user-acquisition",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-business-user-acquisition.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1016,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-design-balance",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-design-balance.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1017,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-design-level-design",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-design-level-design.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1018,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-design-mechanic-design",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-design-mechanic-design.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    },
+    {
+      "id": 1019,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-design-numeric-design",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-design-numeric-design.md"
+      ],
+      "started_at": "2025-12-12T11:28:39.756223"
+    }
+  ]
+}

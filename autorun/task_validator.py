@@ -55,7 +55,7 @@ def validate_task(task: Dict) -> Tuple[bool, List[str]]:
     # 检查必填字段（至少满足一个）
     if task_type in ["create_document", "topic"]:
         # 这些类型需要至少一个必填字段
-        has_required = any(task.get(field) for field in requirements["required_fields"])
+        has_required = any(task.get(field) and task.get(field) != "" for field in requirements["required_fields"])
         if not has_required:
             errors.append(f"任务类型 {task_type} 需要至少一个必填字段: {requirements['required_fields']}")
     else:

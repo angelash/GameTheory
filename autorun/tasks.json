@@ -459,5 +459,5996 @@
     "target_count": 28,
     "started_at": "2025-12-11T17:49:47.240442",
     "completed_at": "2025-12-11T17:56:37.573441"
+  },
+  {
+    "id": 1000,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-animation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-animation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.755230"
+  },
+  {
+    "id": 1001,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-npc-dialogue",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-npc-dialogue.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1002,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-procedural-generation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-procedural-generation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1003,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-testing",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-testing.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1004,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-3d-modeling",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-3d-modeling.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1005,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-animation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-animation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1006,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-character-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-character-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1007,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-texture-creation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-texture-creation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1008,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-dynamic-music",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-dynamic-music.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1009,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-engine",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-engine.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1010,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-music-production",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-music-production.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1011,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-spatial-sound",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-spatial-sound.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1012,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-branding",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-branding.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1013,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-market-analysis",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-market-analysis.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1014,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-monetization",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-monetization.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1015,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-user-acquisition",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-user-acquisition.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1016,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-balance",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-balance.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1017,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-level-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-level-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1018,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-mechanic-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-mechanic-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1019,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-numeric-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-numeric-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1020,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-system-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-system-design.md"
+    ]
+  },
+  {
+    "id": 1021,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-google-ai-game-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-google-ai-game-development.md"
+    ]
+  },
+  {
+    "id": 1022,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-gpu-compute",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-gpu-compute.md"
+    ]
+  },
+  {
+    "id": 1023,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-lighting",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-lighting.md"
+    ]
+  },
+  {
+    "id": 1024,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-post-processing",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-post-processing.md"
+    ]
+  },
+  {
+    "id": 1025,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-rendering-pipeline",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-rendering-pipeline.md"
+    ]
+  },
+  {
+    "id": 1026,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-shader",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-shader.md"
+    ]
+  },
+  {
+    "id": 1027,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-keynote-nintendo",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-keynote-nintendo.md"
+    ]
+  },
+  {
+    "id": 1028,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-keynote-state-of-unreal",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-keynote-state-of-unreal.md"
+    ]
+  },
+  {
+    "id": 1029,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-keynote-unity",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-keynote-unity.md"
+    ]
+  },
+  {
+    "id": 1030,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-meta-ai-vr-mr",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-meta-ai-vr-mr.md"
+    ]
+  },
+  {
+    "id": 1031,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-2.md"
+    ]
+  },
+  {
+    "id": 1032,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-3.md"
+    ]
+  },
+  {
+    "id": 1033,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-4.md"
+    ]
+  },
+  {
+    "id": 1034,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-game-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-game-development.md"
+    ]
+  },
+  {
+    "id": 1035,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-branching",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-branching.md"
+    ]
+  },
+  {
+    "id": 1036,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-character-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-character-development.md"
+    ]
+  },
+  {
+    "id": 1037,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-dialogue",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-dialogue.md"
+    ]
+  },
+  {
+    "id": 1038,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-storytelling",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-storytelling.md"
+    ]
+  },
+  {
+    "id": 1039,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-2.md"
+    ]
+  },
+  {
+    "id": 1040,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-3.md"
+    ]
+  },
+  {
+    "id": 1041,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-4.md"
+    ]
+  },
+  {
+    "id": 1042,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-game-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-game-design.md"
+    ]
+  },
+  {
+    "id": 1043,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-nvidia-ai-gaming",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-nvidia-ai-gaming.md"
+    ]
+  },
+  {
+    "id": 1044,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-2.md"
+    ]
+  },
+  {
+    "id": 1045,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-3.md"
+    ]
+  },
+  {
+    "id": 1046,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-4.md"
+    ]
+  },
+  {
+    "id": 1047,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-game-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-game-design.md"
+    ]
+  },
+  {
+    "id": 1048,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-analytics",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-analytics.md"
+    ]
+  },
+  {
+    "id": 1049,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-behavior",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-behavior.md"
+    ]
+  },
+  {
+    "id": 1050,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-metrics",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-metrics.md"
+    ]
+  },
+  {
+    "id": 1051,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-ux",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-ux.md"
+    ]
+  },
+  {
+    "id": 1052,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-agile",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-agile.md"
+    ]
+  },
+  {
+    "id": 1053,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-pipeline",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-pipeline.md"
+    ]
+  },
+  {
+    "id": 1054,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-qa",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-qa.md"
+    ]
+  },
+  {
+    "id": 1055,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-team-management",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-team-management.md"
+    ]
+  },
+  {
+    "id": 1056,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-engine-architecture",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-engine-architecture.md"
+    ]
+  },
+  {
+    "id": 1057,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-memory",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-memory.md"
+    ]
+  },
+  {
+    "id": 1058,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-networking",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-networking.md"
+    ]
+  },
+  {
+    "id": 1059,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-optimization",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-optimization.md"
+    ]
+  },
+  {
+    "id": 1060,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-tools",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-tools.md"
+    ]
+  },
+  {
+    "id": 1061,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-3d-building-generation",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-3d-building-generation.md"
+    ]
+  },
+  {
+    "id": 1062,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-10",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-10.md"
+    ]
+  },
+  {
+    "id": 1063,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-4.md"
+    ]
+  },
+  {
+    "id": 1064,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-5",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-5.md"
+    ]
+  },
+  {
+    "id": 1065,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-6",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-6.md"
+    ]
+  },
+  {
+    "id": 1066,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-7",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-7.md"
+    ]
+  },
+  {
+    "id": 1067,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-8",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-8.md"
+    ]
+  },
+  {
+    "id": 1068,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-9",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-9.md"
+    ]
+  },
+  {
+    "id": 1069,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-game-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-game-development.md"
+    ]
+  },
+  {
+    "id": 1070,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-cross-platform-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-cross-platform-development.md"
+    ]
+  },
+  {
+    "id": 1071,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-1",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-1.md"
+    ]
+  },
+  {
+    "id": 1072,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-10",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-10.md"
+    ]
+  },
+  {
+    "id": 1073,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-2.md"
+    ]
+  },
+  {
+    "id": 1074,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-3.md"
+    ]
+  },
+  {
+    "id": 1075,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-4.md"
+    ]
+  },
+  {
+    "id": 1076,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-5",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-5.md"
+    ]
+  },
+  {
+    "id": 1077,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-6",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-6.md"
+    ]
+  },
+  {
+    "id": 1078,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-7",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-7.md"
+    ]
+  },
+  {
+    "id": 1079,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-8",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-8.md"
+    ]
+  },
+  {
+    "id": 1080,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-9",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-9.md"
+    ]
+  },
+  {
+    "id": 1081,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-mobile-game-ai-anti-cheat",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-mobile-game-ai-anti-cheat.md"
+    ]
+  },
+  {
+    "id": 1082,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-1",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-1.md"
+    ]
+  },
+  {
+    "id": 1083,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-2.md"
+    ]
+  },
+  {
+    "id": 1084,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-1",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-1.md"
+    ]
+  },
+  {
+    "id": 1085,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-2.md"
+    ]
+  },
+  {
+    "id": 1086,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-3.md"
+    ]
+  },
+  {
+    "id": 1087,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-rendering-technology",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-rendering-technology.md"
+    ]
+  },
+  {
+    "id": 1088,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-service-game",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-service-game.md"
+    ]
+  },
+  {
+    "id": 1089,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-user-research",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-user-research.md"
+    ]
+  },
+  {
+    "id": 1090,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-ar-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-ar-design.md"
+    ]
+  },
+  {
+    "id": 1091,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-ar-performance",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-ar-performance.md"
+    ]
+  },
+  {
+    "id": 1092,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-immersive-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-immersive-design.md"
+    ]
+  },
+  {
+    "id": 1093,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-motion-control",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-motion-control.md"
+    ]
+  },
+  {
+    "id": 1094,
+    "type": "create_document",
+    "title": "收集GDC 2024演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2024年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "search_keywords": "GDC 2024 schedule talks",
+    "schedule_url": "https://schedule.gdconf.com/2024"
+  },
+  {
+    "id": 1095,
+    "type": "create_document",
+    "title": "收集GDC 2023演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2023年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "search_keywords": "GDC 2023 schedule talks",
+    "schedule_url": "https://schedule.gdconf.com/2023"
+  },
+  {
+    "id": 1096,
+    "type": "create_document",
+    "title": "收集GDC 2022演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2022年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "search_keywords": "GDC 2022 schedule talks",
+    "schedule_url": "https://schedule.gdconf.com/2022"
+  },
+  {
+    "id": 1097,
+    "type": "create_document",
+    "title": "收集GDC 2021演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2021年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "search_keywords": "GDC 2021 schedule talks",
+    "schedule_url": "https://schedule.gdconf.com/2021"
+  },
+  {
+    "id": 1200,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-animation",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-animation.md"
+    ]
+  },
+  {
+    "id": 1201,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-cd-projekt-witcher4",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-cd-projekt-witcher4.md"
+    ]
+  },
+  {
+    "id": 1202,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-networking",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-networking.md"
+    ]
+  },
+  {
+    "id": 1203,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-performance",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-performance.md"
+    ]
+  },
+  {
+    "id": 1204,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-rendering",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-rendering.md"
+    ]
+  },
+  {
+    "id": 1205,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-tim-sweeney-keynote",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-tim-sweeney-keynote.md"
+    ]
+  },
+  {
+    "id": 1206,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-ue56-release",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-ue56-release.md"
+    ]
+  },
+  {
+    "id": 1207,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-case-study",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-case-study.md"
+    ]
+  },
+  {
+    "id": 1208,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-keynote",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-keynote.md"
+    ]
+  },
+  {
+    "id": 1209,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-technical-1",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-technical-1.md"
+    ]
+  },
+  {
+    "id": 1210,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-technical-2",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-technical-2.md"
+    ]
+  },
+  {
+    "id": 1211,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-keynote",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-keynote.md"
+    ]
+  },
+  {
+    "id": 1212,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical-1",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical-1.md"
+    ]
+  },
+  {
+    "id": 1213,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical-2",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical-2.md"
+    ]
+  },
+  {
+    "id": 1214,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical.md"
+    ]
+  },
+  {
+    "id": 1215,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（1-5/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2024 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2024"
+  },
+  {
+    "id": 1216,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（6-10/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2024 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2023"
+  },
+  {
+    "id": 1217,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（11-15/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2024 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2022"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（16-20/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第16-20个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2024 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（21-25/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第21-25个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2024 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（26-30/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第26-30个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2024 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1216,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（1-5/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2023 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2023"
+  },
+  {
+    "id": 1217,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（6-10/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2023 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2022"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（11-15/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2023 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（16-20/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第16-20个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2023 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（21-25/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第21-25个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2023 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1221,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（26-30/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第26-30个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2023 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1217,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（1-5/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2022 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2022"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（6-10/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2022 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（11-15/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2022 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（16-20/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第16-20个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2022 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1221,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（21-25/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第21-25个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2022 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1222,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（26-30/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第26-30个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2022 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（1-5/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2021 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（6-10/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2021 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（11-15/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2021 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1221,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（16-20/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第16-20个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2021 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1222,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（21-25/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第21-25个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2021 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1223,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（26-30/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第26-30个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNREAL-FEST 2021 schedule talks",
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021"
+  },
+  {
+    "id": 1300,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-graphics-rendering",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-graphics-rendering.md"
+    ]
+  },
+  {
+    "id": 1301,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-multiplayer-solutions",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-multiplayer-solutions.md"
+    ]
+  },
+  {
+    "id": 1302,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-performance-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-performance-optimization.md"
+    ]
+  },
+  {
+    "id": 1303,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-unity-6-release",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-unity-6-release.md"
+    ]
+  },
+  {
+    "id": 1304,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-xr-development",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-xr-development.md"
+    ]
+  },
+  {
+    "id": 1305,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（1-5/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2024 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2024"
+  },
+  {
+    "id": 1306,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（6-10/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2024 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2023"
+  },
+  {
+    "id": 1307,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（11-15/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2024 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2022"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（16-20/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第16-20个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2024 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1306,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（1-5/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2023 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2023"
+  },
+  {
+    "id": 1307,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（6-10/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2023 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2022"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（11-15/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2023 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1309,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（16-20/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第16-20个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2023 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1307,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（1-5/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2022 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2022"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（6-10/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2022 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1309,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（11-15/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2022 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1310,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（16-20/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第16-20个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2022 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（1-5/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2021 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1309,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（6-10/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2021 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1310,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（11-15/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2021 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1311,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（16-20/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第16-20个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UNITE 2021 schedule talks",
+    "schedule_url": "https://unity.com/events/unite-2021"
+  },
+  {
+    "id": 1400,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-development-tools",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-development-tools.md"
+    ]
+  },
+  {
+    "id": 1401,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-engine-technology",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-engine-technology.md"
+    ]
+  },
+  {
+    "id": 1402,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-memory-management",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-memory-management.md"
+    ]
+  },
+  {
+    "id": 1403,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-mobile-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-mobile-optimization.md"
+    ]
+  },
+  {
+    "id": 1404,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-performance-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-performance-optimization.md"
+    ]
+  },
+  {
+    "id": 1405,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-project-case",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-project-case.md"
+    ]
+  },
+  {
+    "id": 1406,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-rendering-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-rendering-optimization.md"
+    ]
+  },
+  {
+    "id": 1407,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-unity-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-unity-optimization.md"
+    ]
+  },
+  {
+    "id": 1408,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025.md"
+    ]
+  },
+  {
+    "id": 1409,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2024演讲（1-5/15）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UWA-DAY 2024年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2024 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2024"
+  },
+  {
+    "id": 1410,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2024演讲（6-10/15）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UWA-DAY 2024年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2024 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2023"
+  },
+  {
+    "id": 1411,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2024演讲（11-15/15）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UWA-DAY 2024年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2024 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2022"
+  },
+  {
+    "id": 1410,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2023演讲（1-5/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2023年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2023 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2023"
+  },
+  {
+    "id": 1411,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2023演讲（6-10/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2023年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2023 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2022"
+  },
+  {
+    "id": 1412,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2023演讲（11-15/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2023年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2023 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021"
+  },
+  {
+    "id": 1411,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2022演讲（1-5/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2022年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2022 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2022"
+  },
+  {
+    "id": 1412,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2022演讲（6-10/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2022年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2022 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021"
+  },
+  {
+    "id": 1413,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2022演讲（11-15/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2022年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2022 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021"
+  },
+  {
+    "id": 1412,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2021演讲（1-5/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2021年第1-5个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2021 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021"
+  },
+  {
+    "id": 1413,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2021演讲（6-10/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2021年第6-10个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2021 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021"
+  },
+  {
+    "id": 1414,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2021演讲（11-15/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2021年第11-15个演讲，共5个",
+    "target_count": 5,
+    "search_keywords": "UWA-DAY 2021 schedule talks",
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021"
+  },
+  {
+    "id": 1000,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-animation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-animation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1001,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-npc-dialogue",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-npc-dialogue.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1002,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-procedural-generation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-procedural-generation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1003,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-testing",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-testing.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1004,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-3d-modeling",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-3d-modeling.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1005,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-animation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-animation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1006,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-character-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-character-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1007,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-texture-creation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-texture-creation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1008,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-dynamic-music",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-dynamic-music.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1009,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-engine",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-engine.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1010,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-music-production",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-music-production.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1011,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-spatial-sound",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-spatial-sound.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1012,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-branding",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-branding.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1013,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-market-analysis",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-market-analysis.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1014,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-monetization",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-monetization.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1015,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-user-acquisition",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-user-acquisition.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1016,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-balance",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-balance.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1017,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-level-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-level-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1018,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-mechanic-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-mechanic-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1019,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-numeric-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-numeric-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1020,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-system-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-system-design.md"
+    ]
+  },
+  {
+    "id": 1021,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-google-ai-game-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-google-ai-game-development.md"
+    ]
+  },
+  {
+    "id": 1022,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-gpu-compute",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-gpu-compute.md"
+    ]
+  },
+  {
+    "id": 1023,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-lighting",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-lighting.md"
+    ]
+  },
+  {
+    "id": 1024,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-post-processing",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-post-processing.md"
+    ]
+  },
+  {
+    "id": 1025,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-rendering-pipeline",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-rendering-pipeline.md"
+    ]
+  },
+  {
+    "id": 1026,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-shader",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-shader.md"
+    ]
+  },
+  {
+    "id": 1027,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-keynote-nintendo",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-keynote-nintendo.md"
+    ]
+  },
+  {
+    "id": 1028,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-keynote-state-of-unreal",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-keynote-state-of-unreal.md"
+    ]
+  },
+  {
+    "id": 1029,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-keynote-unity",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-keynote-unity.md"
+    ]
+  },
+  {
+    "id": 1030,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-meta-ai-vr-mr",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-meta-ai-vr-mr.md"
+    ]
+  },
+  {
+    "id": 1031,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-2.md"
+    ]
+  },
+  {
+    "id": 1032,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-3.md"
+    ]
+  },
+  {
+    "id": 1033,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-4.md"
+    ]
+  },
+  {
+    "id": 1034,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-game-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-game-development.md"
+    ]
+  },
+  {
+    "id": 1035,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-branching",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-branching.md"
+    ]
+  },
+  {
+    "id": 1036,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-character-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-character-development.md"
+    ]
+  },
+  {
+    "id": 1037,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-dialogue",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-dialogue.md"
+    ]
+  },
+  {
+    "id": 1038,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-storytelling",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-storytelling.md"
+    ]
+  },
+  {
+    "id": 1039,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-2.md"
+    ]
+  },
+  {
+    "id": 1040,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-3.md"
+    ]
+  },
+  {
+    "id": 1041,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-4.md"
+    ]
+  },
+  {
+    "id": 1042,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-game-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-game-design.md"
+    ]
+  },
+  {
+    "id": 1043,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-nvidia-ai-gaming",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-nvidia-ai-gaming.md"
+    ]
+  },
+  {
+    "id": 1044,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-2.md"
+    ]
+  },
+  {
+    "id": 1045,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-3.md"
+    ]
+  },
+  {
+    "id": 1046,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-4.md"
+    ]
+  },
+  {
+    "id": 1047,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-game-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-game-design.md"
+    ]
+  },
+  {
+    "id": 1048,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-analytics",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-analytics.md"
+    ]
+  },
+  {
+    "id": 1049,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-behavior",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-behavior.md"
+    ]
+  },
+  {
+    "id": 1050,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-metrics",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-metrics.md"
+    ]
+  },
+  {
+    "id": 1051,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-ux",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-ux.md"
+    ]
+  },
+  {
+    "id": 1052,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-agile",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-agile.md"
+    ]
+  },
+  {
+    "id": 1053,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-pipeline",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-pipeline.md"
+    ]
+  },
+  {
+    "id": 1054,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-qa",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-qa.md"
+    ]
+  },
+  {
+    "id": 1055,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-team-management",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-team-management.md"
+    ]
+  },
+  {
+    "id": 1056,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-engine-architecture",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-engine-architecture.md"
+    ]
+  },
+  {
+    "id": 1057,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-memory",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-memory.md"
+    ]
+  },
+  {
+    "id": 1058,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-networking",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-networking.md"
+    ]
+  },
+  {
+    "id": 1059,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-optimization",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-optimization.md"
+    ]
+  },
+  {
+    "id": 1060,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-tools",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-tools.md"
+    ]
+  },
+  {
+    "id": 1061,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-3d-building-generation",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-3d-building-generation.md"
+    ]
+  },
+  {
+    "id": 1062,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-10",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-10.md"
+    ]
+  },
+  {
+    "id": 1063,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-4.md"
+    ]
+  },
+  {
+    "id": 1064,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-5",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-5.md"
+    ]
+  },
+  {
+    "id": 1065,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-6",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-6.md"
+    ]
+  },
+  {
+    "id": 1066,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-7",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-7.md"
+    ]
+  },
+  {
+    "id": 1067,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-8",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-8.md"
+    ]
+  },
+  {
+    "id": 1068,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-9",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-9.md"
+    ]
+  },
+  {
+    "id": 1069,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-game-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-game-development.md"
+    ]
+  },
+  {
+    "id": 1070,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-cross-platform-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-cross-platform-development.md"
+    ]
+  },
+  {
+    "id": 1071,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-1",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-1.md"
+    ]
+  },
+  {
+    "id": 1072,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-10",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-10.md"
+    ]
+  },
+  {
+    "id": 1073,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-2.md"
+    ]
+  },
+  {
+    "id": 1074,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-3.md"
+    ]
+  },
+  {
+    "id": 1075,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-4.md"
+    ]
+  },
+  {
+    "id": 1076,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-5",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-5.md"
+    ]
+  },
+  {
+    "id": 1077,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-6",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-6.md"
+    ]
+  },
+  {
+    "id": 1078,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-7",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-7.md"
+    ]
+  },
+  {
+    "id": 1079,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-8",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-8.md"
+    ]
+  },
+  {
+    "id": 1080,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-9",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-9.md"
+    ]
+  },
+  {
+    "id": 1081,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-mobile-game-ai-anti-cheat",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-mobile-game-ai-anti-cheat.md"
+    ]
+  },
+  {
+    "id": 1082,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-1",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-1.md"
+    ]
+  },
+  {
+    "id": 1083,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-2.md"
+    ]
+  },
+  {
+    "id": 1084,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-1",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-1.md"
+    ]
+  },
+  {
+    "id": 1085,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-2.md"
+    ]
+  },
+  {
+    "id": 1086,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-3.md"
+    ]
+  },
+  {
+    "id": 1087,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-rendering-technology",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-rendering-technology.md"
+    ]
+  },
+  {
+    "id": 1088,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-service-game",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-service-game.md"
+    ]
+  },
+  {
+    "id": 1089,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-user-research",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-user-research.md"
+    ]
+  },
+  {
+    "id": 1090,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-ar-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-ar-design.md"
+    ]
+  },
+  {
+    "id": 1091,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-ar-performance",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-ar-performance.md"
+    ]
+  },
+  {
+    "id": 1092,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-immersive-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-immersive-design.md"
+    ]
+  },
+  {
+    "id": 1093,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-motion-control",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-motion-control.md"
+    ]
+  },
+  {
+    "id": 1094,
+    "type": "create_document",
+    "title": "收集GDC 2024演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2024年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "schedule_url": "https://schedule.gdconf.com/2024",
+    "search_keywords": "GDC 2024 schedule talks"
+  },
+  {
+    "id": 1095,
+    "type": "create_document",
+    "title": "收集GDC 2023演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2023年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "schedule_url": "https://schedule.gdconf.com/2023",
+    "search_keywords": "GDC 2023 schedule talks"
+  },
+  {
+    "id": 1096,
+    "type": "create_document",
+    "title": "收集GDC 2022演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2022年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "schedule_url": "https://schedule.gdconf.com/2022",
+    "search_keywords": "GDC 2022 schedule talks"
+  },
+  {
+    "id": 1097,
+    "type": "create_document",
+    "title": "收集GDC 2021演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2021年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "schedule_url": "https://schedule.gdconf.com/2021",
+    "search_keywords": "GDC 2021 schedule talks"
+  },
+  {
+    "id": 1200,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-animation",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-animation.md"
+    ]
+  },
+  {
+    "id": 1201,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-cd-projekt-witcher4",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-cd-projekt-witcher4.md"
+    ]
+  },
+  {
+    "id": 1202,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-networking",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-networking.md"
+    ]
+  },
+  {
+    "id": 1203,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-performance",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-performance.md"
+    ]
+  },
+  {
+    "id": 1204,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-rendering",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-rendering.md"
+    ]
+  },
+  {
+    "id": 1205,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-tim-sweeney-keynote",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-tim-sweeney-keynote.md"
+    ]
+  },
+  {
+    "id": 1206,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-ue56-release",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-ue56-release.md"
+    ]
+  },
+  {
+    "id": 1207,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-case-study",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-case-study.md"
+    ]
+  },
+  {
+    "id": 1208,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-keynote",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-keynote.md"
+    ]
+  },
+  {
+    "id": 1209,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-technical-1",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-technical-1.md"
+    ]
+  },
+  {
+    "id": 1210,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-technical-2",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-technical-2.md"
+    ]
+  },
+  {
+    "id": 1211,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-keynote",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-keynote.md"
+    ]
+  },
+  {
+    "id": 1212,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical-1",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical-1.md"
+    ]
+  },
+  {
+    "id": 1213,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical-2",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical-2.md"
+    ]
+  },
+  {
+    "id": 1214,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical.md"
+    ]
+  },
+  {
+    "id": 1215,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（1-5/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2024",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1216,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（6-10/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2023",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1217,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（11-15/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2022",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（16-20/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（21-25/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第21-25个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（26-30/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第26-30个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1216,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（1-5/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2023",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1217,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（6-10/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2022",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（11-15/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（16-20/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（21-25/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第21-25个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1221,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（26-30/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第26-30个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1217,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（1-5/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2022",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（6-10/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（11-15/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（16-20/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1221,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（21-25/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第21-25个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1222,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（26-30/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第26-30个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（1-5/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（6-10/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（11-15/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1221,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（16-20/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1222,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（21-25/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第21-25个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1223,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（26-30/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第26-30个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1300,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-graphics-rendering",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-graphics-rendering.md"
+    ]
+  },
+  {
+    "id": 1301,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-multiplayer-solutions",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-multiplayer-solutions.md"
+    ]
+  },
+  {
+    "id": 1302,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-performance-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-performance-optimization.md"
+    ]
+  },
+  {
+    "id": 1303,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-unity-6-release",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-unity-6-release.md"
+    ]
+  },
+  {
+    "id": 1304,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-xr-development",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-xr-development.md"
+    ]
+  },
+  {
+    "id": 1305,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（1-5/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2024",
+    "search_keywords": "UNITE 2024 schedule talks"
+  },
+  {
+    "id": 1306,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（6-10/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2023",
+    "search_keywords": "UNITE 2024 schedule talks"
+  },
+  {
+    "id": 1307,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（11-15/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2022",
+    "search_keywords": "UNITE 2024 schedule talks"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（16-20/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2024 schedule talks"
+  },
+  {
+    "id": 1306,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（1-5/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2023",
+    "search_keywords": "UNITE 2023 schedule talks"
+  },
+  {
+    "id": 1307,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（6-10/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2022",
+    "search_keywords": "UNITE 2023 schedule talks"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（11-15/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2023 schedule talks"
+  },
+  {
+    "id": 1309,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（16-20/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2023 schedule talks"
+  },
+  {
+    "id": 1307,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（1-5/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2022",
+    "search_keywords": "UNITE 2022 schedule talks"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（6-10/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2022 schedule talks"
+  },
+  {
+    "id": 1309,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（11-15/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2022 schedule talks"
+  },
+  {
+    "id": 1310,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（16-20/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2022 schedule talks"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（1-5/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2021 schedule talks"
+  },
+  {
+    "id": 1309,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（6-10/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2021 schedule talks"
+  },
+  {
+    "id": 1310,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（11-15/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2021 schedule talks"
+  },
+  {
+    "id": 1311,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（16-20/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2021 schedule talks"
+  },
+  {
+    "id": 1400,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-development-tools",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-development-tools.md"
+    ]
+  },
+  {
+    "id": 1401,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-engine-technology",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-engine-technology.md"
+    ]
+  },
+  {
+    "id": 1402,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-memory-management",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-memory-management.md"
+    ]
+  },
+  {
+    "id": 1403,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-mobile-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-mobile-optimization.md"
+    ]
+  },
+  {
+    "id": 1404,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-performance-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-performance-optimization.md"
+    ]
+  },
+  {
+    "id": 1405,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-project-case",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-project-case.md"
+    ]
+  },
+  {
+    "id": 1406,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-rendering-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-rendering-optimization.md"
+    ]
+  },
+  {
+    "id": 1407,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-unity-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-unity-optimization.md"
+    ]
+  },
+  {
+    "id": 1408,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025.md"
+    ]
+  },
+  {
+    "id": 1409,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2024演讲（1-5/15）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UWA-DAY 2024年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2024",
+    "search_keywords": "UWA-DAY 2024 schedule talks"
+  },
+  {
+    "id": 1410,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2024演讲（6-10/15）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UWA-DAY 2024年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2023",
+    "search_keywords": "UWA-DAY 2024 schedule talks"
+  },
+  {
+    "id": 1411,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2024演讲（11-15/15）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UWA-DAY 2024年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2022",
+    "search_keywords": "UWA-DAY 2024 schedule talks"
+  },
+  {
+    "id": 1410,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2023演讲（1-5/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2023年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2023",
+    "search_keywords": "UWA-DAY 2023 schedule talks"
+  },
+  {
+    "id": 1411,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2023演讲（6-10/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2023年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2022",
+    "search_keywords": "UWA-DAY 2023 schedule talks"
+  },
+  {
+    "id": 1412,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2023演讲（11-15/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2023年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2023 schedule talks"
+  },
+  {
+    "id": 1411,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2022演讲（1-5/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2022年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2022",
+    "search_keywords": "UWA-DAY 2022 schedule talks"
+  },
+  {
+    "id": 1412,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2022演讲（6-10/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2022年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2022 schedule talks"
+  },
+  {
+    "id": 1413,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2022演讲（11-15/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2022年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2022 schedule talks"
+  },
+  {
+    "id": 1412,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2021演讲（1-5/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2021年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2021 schedule talks"
+  },
+  {
+    "id": 1413,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2021演讲（6-10/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2021年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2021 schedule talks"
+  },
+  {
+    "id": 1414,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2021演讲（11-15/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2021年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2021 schedule talks"
+  },
+  {
+    "id": 1000,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-animation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-animation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1001,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-npc-dialogue",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-npc-dialogue.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1002,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-procedural-generation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-procedural-generation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1003,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-ai-testing",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-ai-testing.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1004,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-3d-modeling",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-3d-modeling.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1005,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-animation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-animation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1006,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-character-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-character-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1007,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-art-texture-creation",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-art-texture-creation.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1008,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-dynamic-music",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-dynamic-music.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1009,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-engine",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-engine.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1010,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-music-production",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-music-production.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1011,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-audio-spatial-sound",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-audio-spatial-sound.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1012,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-branding",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-branding.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1013,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-market-analysis",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-market-analysis.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1014,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-monetization",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-monetization.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1015,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-business-user-acquisition",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-business-user-acquisition.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1016,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-balance",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-balance.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1017,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-level-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-level-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1018,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-mechanic-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-mechanic-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1019,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-numeric-design",
+    "status": "in_progress",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-numeric-design.md"
+    ],
+    "started_at": "2025-12-12T11:28:39.756223"
+  },
+  {
+    "id": 1020,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-design-system-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-design-system-design.md"
+    ]
+  },
+  {
+    "id": 1021,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-google-ai-game-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-google-ai-game-development.md"
+    ]
+  },
+  {
+    "id": 1022,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-gpu-compute",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-gpu-compute.md"
+    ]
+  },
+  {
+    "id": 1023,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-lighting",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-lighting.md"
+    ]
+  },
+  {
+    "id": 1024,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-post-processing",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-post-processing.md"
+    ]
+  },
+  {
+    "id": 1025,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-rendering-pipeline",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-rendering-pipeline.md"
+    ]
+  },
+  {
+    "id": 1026,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-graphics-shader",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-graphics-shader.md"
+    ]
+  },
+  {
+    "id": 1027,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-keynote-nintendo",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-keynote-nintendo.md"
+    ]
+  },
+  {
+    "id": 1028,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-keynote-state-of-unreal",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-keynote-state-of-unreal.md"
+    ]
+  },
+  {
+    "id": 1029,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-keynote-unity",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-keynote-unity.md"
+    ]
+  },
+  {
+    "id": 1030,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-meta-ai-vr-mr",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-meta-ai-vr-mr.md"
+    ]
+  },
+  {
+    "id": 1031,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-2.md"
+    ]
+  },
+  {
+    "id": 1032,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-3.md"
+    ]
+  },
+  {
+    "id": 1033,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-4.md"
+    ]
+  },
+  {
+    "id": 1034,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-mihoyo-game-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-mihoyo-game-development.md"
+    ]
+  },
+  {
+    "id": 1035,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-branching",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-branching.md"
+    ]
+  },
+  {
+    "id": 1036,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-character-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-character-development.md"
+    ]
+  },
+  {
+    "id": 1037,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-dialogue",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-dialogue.md"
+    ]
+  },
+  {
+    "id": 1038,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-narrative-storytelling",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-narrative-storytelling.md"
+    ]
+  },
+  {
+    "id": 1039,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-2.md"
+    ]
+  },
+  {
+    "id": 1040,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-3.md"
+    ]
+  },
+  {
+    "id": 1041,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-4.md"
+    ]
+  },
+  {
+    "id": 1042,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-netease-game-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-netease-game-design.md"
+    ]
+  },
+  {
+    "id": 1043,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-nvidia-ai-gaming",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-nvidia-ai-gaming.md"
+    ]
+  },
+  {
+    "id": 1044,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-2.md"
+    ]
+  },
+  {
+    "id": 1045,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-3.md"
+    ]
+  },
+  {
+    "id": 1046,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-4.md"
+    ]
+  },
+  {
+    "id": 1047,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-game-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-perfect-world-game-design.md"
+    ]
+  },
+  {
+    "id": 1048,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-analytics",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-analytics.md"
+    ]
+  },
+  {
+    "id": 1049,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-behavior",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-behavior.md"
+    ]
+  },
+  {
+    "id": 1050,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-metrics",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-metrics.md"
+    ]
+  },
+  {
+    "id": 1051,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-ux",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-player-research-ux.md"
+    ]
+  },
+  {
+    "id": 1052,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-agile",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-agile.md"
+    ]
+  },
+  {
+    "id": 1053,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-pipeline",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-pipeline.md"
+    ]
+  },
+  {
+    "id": 1054,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-qa",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-qa.md"
+    ]
+  },
+  {
+    "id": 1055,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-production-team-management",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-production-team-management.md"
+    ]
+  },
+  {
+    "id": 1056,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-engine-architecture",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-engine-architecture.md"
+    ]
+  },
+  {
+    "id": 1057,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-memory",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-memory.md"
+    ]
+  },
+  {
+    "id": 1058,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-networking",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-networking.md"
+    ]
+  },
+  {
+    "id": 1059,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-optimization",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-optimization.md"
+    ]
+  },
+  {
+    "id": 1060,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-programming-tools",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-programming-tools.md"
+    ]
+  },
+  {
+    "id": 1061,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-3d-building-generation",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-3d-building-generation.md"
+    ]
+  },
+  {
+    "id": 1062,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-10",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-10.md"
+    ]
+  },
+  {
+    "id": 1063,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-4.md"
+    ]
+  },
+  {
+    "id": 1064,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-5",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-5.md"
+    ]
+  },
+  {
+    "id": 1065,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-6",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-6.md"
+    ]
+  },
+  {
+    "id": 1066,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-7",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-7.md"
+    ]
+  },
+  {
+    "id": 1067,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-8",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-8.md"
+    ]
+  },
+  {
+    "id": 1068,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-9",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-9.md"
+    ]
+  },
+  {
+    "id": 1069,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-ai-game-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-ai-game-development.md"
+    ]
+  },
+  {
+    "id": 1070,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-cross-platform-development",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-cross-platform-development.md"
+    ]
+  },
+  {
+    "id": 1071,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-1",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-1.md"
+    ]
+  },
+  {
+    "id": 1072,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-10",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-10.md"
+    ]
+  },
+  {
+    "id": 1073,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-2.md"
+    ]
+  },
+  {
+    "id": 1074,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-3.md"
+    ]
+  },
+  {
+    "id": 1075,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-4",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-4.md"
+    ]
+  },
+  {
+    "id": 1076,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-5",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-5.md"
+    ]
+  },
+  {
+    "id": 1077,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-6",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-6.md"
+    ]
+  },
+  {
+    "id": 1078,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-7",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-7.md"
+    ]
+  },
+  {
+    "id": 1079,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-8",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-8.md"
+    ]
+  },
+  {
+    "id": 1080,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-9",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-9.md"
+    ]
+  },
+  {
+    "id": 1081,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-mobile-game-ai-anti-cheat",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-mobile-game-ai-anti-cheat.md"
+    ]
+  },
+  {
+    "id": 1082,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-1",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-1.md"
+    ]
+  },
+  {
+    "id": 1083,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-2.md"
+    ]
+  },
+  {
+    "id": 1084,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-1",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-1.md"
+    ]
+  },
+  {
+    "id": 1085,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-2",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-2.md"
+    ]
+  },
+  {
+    "id": 1086,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-3",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-3.md"
+    ]
+  },
+  {
+    "id": 1087,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-rendering-technology",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-rendering-technology.md"
+    ]
+  },
+  {
+    "id": 1088,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-service-game",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-service-game.md"
+    ]
+  },
+  {
+    "id": 1089,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-user-research",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-tencent-user-research.md"
+    ]
+  },
+  {
+    "id": 1090,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-ar-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-ar-design.md"
+    ]
+  },
+  {
+    "id": 1091,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-ar-performance",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-ar-performance.md"
+    ]
+  },
+  {
+    "id": 1092,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-immersive-design",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-immersive-design.md"
+    ]
+  },
+  {
+    "id": 1093,
+    "type": "content_supplement",
+    "title": "补充GDC 2025演讲内容 - gdc-2025-vr-motion-control",
+    "status": "pending",
+    "priority": 1,
+    "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\gdc\\talks\\2025\\gdc-2025-vr-motion-control.md"
+    ]
+  },
+  {
+    "id": 1094,
+    "type": "create_document",
+    "title": "收集GDC 2024演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2024年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "schedule_url": "https://schedule.gdconf.com/2024",
+    "search_keywords": "GDC 2024 schedule talks"
+  },
+  {
+    "id": 1095,
+    "type": "create_document",
+    "title": "收集GDC 2023演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2023年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "schedule_url": "https://schedule.gdconf.com/2023",
+    "search_keywords": "GDC 2023 schedule talks"
+  },
+  {
+    "id": 1096,
+    "type": "create_document",
+    "title": "收集GDC 2022演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2022年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "schedule_url": "https://schedule.gdconf.com/2022",
+    "search_keywords": "GDC 2022 schedule talks"
+  },
+  {
+    "id": 1097,
+    "type": "create_document",
+    "title": "收集GDC 2021演讲（需要GDC Vault权限）",
+    "status": "skipped",
+    "priority": 5,
+    "description": "收集GDC 2021年演讲，需要GDC Vault账号访问完整视频和PPT",
+    "requires_permission": true,
+    "reason": "需要GDC Vault账号访问完整视频和PPT",
+    "target_count": 50,
+    "schedule_url": "https://schedule.gdconf.com/2021",
+    "search_keywords": "GDC 2021 schedule talks"
+  },
+  {
+    "id": 1200,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-animation",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-animation.md"
+    ]
+  },
+  {
+    "id": 1201,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-cd-projekt-witcher4",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-cd-projekt-witcher4.md"
+    ]
+  },
+  {
+    "id": 1202,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-networking",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-networking.md"
+    ]
+  },
+  {
+    "id": 1203,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-performance",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-performance.md"
+    ]
+  },
+  {
+    "id": 1204,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-rendering",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-rendering.md"
+    ]
+  },
+  {
+    "id": 1205,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-tim-sweeney-keynote",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-tim-sweeney-keynote.md"
+    ]
+  },
+  {
+    "id": 1206,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-ue56-release",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-ue56-release.md"
+    ]
+  },
+  {
+    "id": 1207,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-case-study",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-case-study.md"
+    ]
+  },
+  {
+    "id": 1208,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-keynote",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-keynote.md"
+    ]
+  },
+  {
+    "id": 1209,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-technical-1",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-technical-1.md"
+    ]
+  },
+  {
+    "id": 1210,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-technical-2",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-technical-2.md"
+    ]
+  },
+  {
+    "id": 1211,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-keynote",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-keynote.md"
+    ]
+  },
+  {
+    "id": 1212,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical-1",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical-1.md"
+    ]
+  },
+  {
+    "id": 1213,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical-2",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical-2.md"
+    ]
+  },
+  {
+    "id": 1214,
+    "type": "content_supplement",
+    "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical.md"
+    ]
+  },
+  {
+    "id": 1215,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（1-5/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2024",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1216,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（6-10/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2023",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1217,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（11-15/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2022",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（16-20/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（21-25/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第21-25个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2024演讲（26-30/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2024年第26-30个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2024 schedule talks"
+  },
+  {
+    "id": 1216,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（1-5/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2023",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1217,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（6-10/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2022",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（11-15/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（16-20/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（21-25/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第21-25个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1221,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2023演讲（26-30/30）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNREAL-FEST 2023年第26-30个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2023 schedule talks"
+  },
+  {
+    "id": 1217,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（1-5/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2022",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（6-10/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（11-15/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（16-20/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1221,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（21-25/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第21-25个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1222,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2022演讲（26-30/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2022年第26-30个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2022 schedule talks"
+  },
+  {
+    "id": 1218,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（1-5/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1219,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（6-10/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1220,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（11-15/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1221,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（16-20/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1222,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（21-25/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第21-25个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1223,
+    "type": "create_document",
+    "title": "收集UNREAL-FEST 2021演讲（26-30/30）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNREAL-FEST 2021年第26-30个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.unrealengine.com/en-US/events/unreal-fest-2021",
+    "search_keywords": "UNREAL-FEST 2021 schedule talks"
+  },
+  {
+    "id": 1300,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-graphics-rendering",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-graphics-rendering.md"
+    ]
+  },
+  {
+    "id": 1301,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-multiplayer-solutions",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-multiplayer-solutions.md"
+    ]
+  },
+  {
+    "id": 1302,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-performance-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-performance-optimization.md"
+    ]
+  },
+  {
+    "id": 1303,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-unity-6-release",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-unity-6-release.md"
+    ]
+  },
+  {
+    "id": 1304,
+    "type": "content_supplement",
+    "title": "补充UNITE 2025演讲内容 - unite-2025-xr-development",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\unite\\talks\\2025\\unite-2025-xr-development.md"
+    ]
+  },
+  {
+    "id": 1305,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（1-5/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2024",
+    "search_keywords": "UNITE 2024 schedule talks"
+  },
+  {
+    "id": 1306,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（6-10/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2023",
+    "search_keywords": "UNITE 2024 schedule talks"
+  },
+  {
+    "id": 1307,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（11-15/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2022",
+    "search_keywords": "UNITE 2024 schedule talks"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2024演讲（16-20/20）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UNITE 2024年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2024 schedule talks"
+  },
+  {
+    "id": 1306,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（1-5/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2023",
+    "search_keywords": "UNITE 2023 schedule talks"
+  },
+  {
+    "id": 1307,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（6-10/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2022",
+    "search_keywords": "UNITE 2023 schedule talks"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（11-15/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2023 schedule talks"
+  },
+  {
+    "id": 1309,
+    "type": "create_document",
+    "title": "收集UNITE 2023演讲（16-20/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2023年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2023 schedule talks"
+  },
+  {
+    "id": 1307,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（1-5/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2022",
+    "search_keywords": "UNITE 2022 schedule talks"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（6-10/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2022 schedule talks"
+  },
+  {
+    "id": 1309,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（11-15/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2022 schedule talks"
+  },
+  {
+    "id": 1310,
+    "type": "create_document",
+    "title": "收集UNITE 2022演讲（16-20/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2022年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2022 schedule talks"
+  },
+  {
+    "id": 1308,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（1-5/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2021 schedule talks"
+  },
+  {
+    "id": 1309,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（6-10/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2021 schedule talks"
+  },
+  {
+    "id": 1310,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（11-15/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2021 schedule talks"
+  },
+  {
+    "id": 1311,
+    "type": "create_document",
+    "title": "收集UNITE 2021演讲（16-20/20）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UNITE 2021年第16-20个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://unity.com/events/unite-2021",
+    "search_keywords": "UNITE 2021 schedule talks"
+  },
+  {
+    "id": 1400,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-development-tools",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-development-tools.md"
+    ]
+  },
+  {
+    "id": 1401,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-engine-technology",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-engine-technology.md"
+    ]
+  },
+  {
+    "id": 1402,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-memory-management",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-memory-management.md"
+    ]
+  },
+  {
+    "id": 1403,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-mobile-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-mobile-optimization.md"
+    ]
+  },
+  {
+    "id": 1404,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-performance-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-performance-optimization.md"
+    ]
+  },
+  {
+    "id": 1405,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-project-case",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-project-case.md"
+    ]
+  },
+  {
+    "id": 1406,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-rendering-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-rendering-optimization.md"
+    ]
+  },
+  {
+    "id": 1407,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-unity-optimization",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025-unity-optimization.md"
+    ]
+  },
+  {
+    "id": 1408,
+    "type": "content_supplement",
+    "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025",
+    "status": "pending",
+    "priority": 2,
+    "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+    "target_files": [
+      "docs\\uwa-day\\talks\\2025\\uwa-day-2025.md"
+    ]
+  },
+  {
+    "id": 1409,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2024演讲（1-5/15）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UWA-DAY 2024年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2024",
+    "search_keywords": "UWA-DAY 2024 schedule talks"
+  },
+  {
+    "id": 1410,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2024演讲（6-10/15）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UWA-DAY 2024年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2023",
+    "search_keywords": "UWA-DAY 2024 schedule talks"
+  },
+  {
+    "id": 1411,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2024演讲（11-15/15）",
+    "status": "pending",
+    "priority": 3,
+    "description": "收集UWA-DAY 2024年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2022",
+    "search_keywords": "UWA-DAY 2024 schedule talks"
+  },
+  {
+    "id": 1410,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2023演讲（1-5/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2023年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2023",
+    "search_keywords": "UWA-DAY 2023 schedule talks"
+  },
+  {
+    "id": 1411,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2023演讲（6-10/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2023年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2022",
+    "search_keywords": "UWA-DAY 2023 schedule talks"
+  },
+  {
+    "id": 1412,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2023演讲（11-15/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2023年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2023 schedule talks"
+  },
+  {
+    "id": 1411,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2022演讲（1-5/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2022年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2022",
+    "search_keywords": "UWA-DAY 2022 schedule talks"
+  },
+  {
+    "id": 1412,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2022演讲（6-10/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2022年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2022 schedule talks"
+  },
+  {
+    "id": 1413,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2022演讲（11-15/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2022年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2022 schedule talks"
+  },
+  {
+    "id": 1412,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2021演讲（1-5/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2021年第1-5个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2021 schedule talks"
+  },
+  {
+    "id": 1413,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2021演讲（6-10/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2021年第6-10个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2021 schedule talks"
+  },
+  {
+    "id": 1414,
+    "type": "create_document",
+    "title": "收集UWA-DAY 2021演讲（11-15/15）",
+    "status": "pending",
+    "priority": 4,
+    "description": "收集UWA-DAY 2021年第11-15个演讲，共5个",
+    "target_count": 5,
+    "schedule_url": "https://www.uwa4d.com/uwa-day-2021",
+    "search_keywords": "UWA-DAY 2021 schedule talks"
   }
 ]
