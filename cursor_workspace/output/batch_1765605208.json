@@ -1,0 +1,316 @@
+{
+  "batch_name": "batch_1765605208",
+  "processed_at": "2025-12-13T13:55:00.000000",
+  "results": [
+    {
+      "id": 1040,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-netease-3",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行（2025-03-17至2025-03-21），无法获取实际演讲内容。需要等待会议举行后，通过GDC Vault或官方渠道获取资源链接和详细内容。"
+      }
+    },
+    {
+      "id": 1041,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-netease-4",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1042,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-netease-game-design",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1043,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-nvidia-ai-gaming",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1044,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-2",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1045,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-3",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1046,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-4",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1047,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-perfect-world-game-design",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1048,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-analytics",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1049,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-behavior",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1050,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-metrics",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1051,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-player-research-ux",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1052,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-production-agile",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1053,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-production-pipeline",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1054,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-production-qa",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1055,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-production-team-management",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1056,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-programming-engine-architecture",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1057,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-programming-memory",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1058,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-programming-networking",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    },
+    {
+      "id": 1059,
+      "status": "partial",
+      "result": {
+        "title": "补充GDC 2025演讲内容 - gdc-2025-programming-optimization",
+        "completion_rate": 0.3,
+        "missing_items": [
+          "resource_links",
+          "summary",
+          "detailed_content",
+          "key_points"
+        ],
+        "notes": "文档框架已存在，但GDC 2025尚未举行，无法获取实际演讲内容。需要等待会议举行后补充。"
+      }
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "success": 0,
+    "partial": 20,
+    "pending": 0,
+    "failed": 0,
+    "skipped": 0,
+    "processing_time": "约2分钟"
+  }
+}
+
