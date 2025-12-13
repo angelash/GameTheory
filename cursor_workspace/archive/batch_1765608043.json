@@ -1,0 +1,128 @@
+{
+  "batch_name": "batch_1765608043",
+  "processed_at": "2025-12-13T15:10:00.000000",
+  "processor": "cursor-worker",
+  "results": [
+    {
+      "id": 1080,
+      "status": "partial",
+      "completion_rate": 0.65,
+      "notes": "已补充演讲摘要、核心观点、主要内容框架和关键要点。需要GDC Vault访问权限获取具体资源链接和详细演讲内容。",
+      "missing_items": ["GDC Vault链接", "视频链接", "PPT/PDF链接", "具体案例数据"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-game-design-9.md"
+    },
+    {
+      "id": 1081,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充AI反作弊技术原理、移动游戏挑战、实际应用案例框架。详细内容需GDC Vault资源。",
+      "missing_items": ["GDC Vault链接", "视频链接", "具体检测精度数据"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-mobile-game-ai-anti-cheat.md"
+    },
+    {
+      "id": 1082,
+      "status": "partial",
+      "completion_rate": 0.65,
+      "notes": "已补充制作流程核心内容：立项与预研、制作阶段、发布与运营。需GDC Vault获取具体实践案例。",
+      "missing_items": ["GDC Vault链接", "视频链接", "具体项目案例"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-production-1.md"
+    },
+    {
+      "id": 1083,
+      "status": "partial",
+      "completion_rate": 0.65,
+      "notes": "已补充大规模项目管理内容：团队组织、开发流程、项目管理。需GDC Vault获取具体数据。",
+      "missing_items": ["GDC Vault链接", "视频链接", "团队规模具体数据"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-production-2.md"
+    },
+    {
+      "id": 1084,
+      "status": "partial",
+      "completion_rate": 0.65,
+      "notes": "已补充编程技术内容：架构设计、性能优化、工程实践。需GDC Vault获取具体技术细节。",
+      "missing_items": ["GDC Vault链接", "视频链接", "具体代码示例"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-programming-1.md"
+    },
+    {
+      "id": 1085,
+      "status": "partial",
+      "completion_rate": 0.65,
+      "notes": "已补充网络编程内容：服务器架构、网络同步、运维保障。需GDC Vault获取架构图和具体指标。",
+      "missing_items": ["GDC Vault链接", "视频链接", "架构图", "性能指标"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-programming-2.md"
+    },
+    {
+      "id": 1086,
+      "status": "partial",
+      "completion_rate": 0.65,
+      "notes": "已补充游戏AI编程内容：传统AI、机器学习应用、工程实践。需GDC Vault获取具体实现细节。",
+      "missing_items": ["GDC Vault链接", "视频链接", "AI案例演示"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-programming-3.md"
+    },
+    {
+      "id": 1087,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充渲染技术内容：渲染管线、光照系统、性能优化。需GDC Vault获取具体技术实现和数据。",
+      "missing_items": ["GDC Vault链接", "视频链接", "渲染对比图", "性能数据"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-rendering-technology.md"
+    },
+    {
+      "id": 1088,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充服务型游戏内容：GaaS设计、运营策略、商业化。需GDC Vault获取具体案例数据。",
+      "missing_items": ["GDC Vault链接", "视频链接", "运营数据"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-service-game.md"
+    },
+    {
+      "id": 1089,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充用户研究内容：研究方法、运营实践、数据分析。需GDC Vault获取具体研究案例。",
+      "missing_items": ["GDC Vault链接", "视频链接", "研究报告"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-tencent-user-research.md"
+    },
+    {
+      "id": 1090,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充AR游戏设计内容：空间理解、UI/UX设计、游戏机制。需GDC Vault获取具体案例。",
+      "missing_items": ["GDC Vault链接", "视频链接", "演讲者信息"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-vr-ar-design.md"
+    },
+    {
+      "id": 1091,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充VR/AR性能优化内容：渲染优化、延迟优化、热管理。需GDC Vault获取具体技术数据。",
+      "missing_items": ["GDC Vault链接", "视频链接", "性能对比数据"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-vr-ar-performance.md"
+    },
+    {
+      "id": 1092,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充VR沉浸式设计内容：视觉沉浸、交互沉浸、舒适性设计。需GDC Vault获取具体案例。",
+      "missing_items": ["GDC Vault链接", "视频链接", "演讲者信息"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-vr-immersive-design.md"
+    },
+    {
+      "id": 1093,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充VR动作控制内容：追踪技术、交互设计、触觉反馈。需GDC Vault获取技术演示。",
+      "missing_items": ["GDC Vault链接", "视频链接", "硬件规格数据"],
+      "updated_file": "docs/gdc/talks/2025/gdc-2025-vr-motion-control.md"
+    }
+  ],
+  "summary": {
+    "total_tasks": 14,
+    "successful": 0,
+    "partial": 14,
+    "failed": 0,
+    "skipped": 0,
+    "notes": "所有任务已处理并补充了内容框架。由于缺乏GDC Vault访问权限，无法获取具体演讲资源链接和详细内容，所有任务标记为partial状态。后续获取Vault访问后可进一步补充完整。"
+  }
+}
+

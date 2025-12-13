@@ -1,0 +1,28 @@
+{
+  "batch_name": "batch_1765605273",
+  "processed_at": "2025-12-13T17:00:00.000000",
+  "results": [
+    {"id": 1060, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1061, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1062, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1063, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1064, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1065, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1066, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1067, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1068, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1069, "status": "success", "completion_rate": 0.90, "notes": "腾讯AI游戏开发已完成"},
+    {"id": 1070, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1071, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1072, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1073, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1074, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1075, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1076, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1077, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1078, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1079, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"}
+  ],
+  "summary": {"total": 20, "success": 1, "partial": 19, "failed": 0, "skipped": 0, "average_completion_rate": 0.615}
+}
+

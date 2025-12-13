@@ -1,0 +1,246 @@
+{
+  "batch_name": "batch_1765608553",
+  "created_at": "2025-12-13T14:49:13.992292",
+  "tasks": [
+    {
+      "id": 1400,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-development-tools",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-development-tools.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1401,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-engine-technology",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-engine-technology.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1402,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-memory-management",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-memory-management.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1403,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-mobile-optimization",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-mobile-optimization.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1404,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-performance-optimization",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-performance-optimization.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1405,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-project-case",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-project-case.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1406,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-rendering-optimization",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-rendering-optimization.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1407,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-unity-optimization",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-unity-optimization.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1408,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1400,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-development-tools",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-development-tools.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1401,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-engine-technology",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-engine-technology.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1402,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-memory-management",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-memory-management.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1403,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-mobile-optimization",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-mobile-optimization.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1404,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-performance-optimization",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-performance-optimization.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1405,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-project-case",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-project-case.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1406,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-rendering-optimization",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-rendering-optimization.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1407,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-unity-optimization",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-unity-optimization.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1408,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1400,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-development-tools",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-development-tools.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    },
+    {
+      "id": 1401,
+      "type": "content_supplement",
+      "title": "补充UWA-DAY 2025演讲内容 - uwa-day-2025-engine-technology",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UWA-DAY 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\uwa-day\\talks\\2025\\uwa-day-2025-engine-technology.md"
+      ],
+      "started_at": "2025-12-13T14:49:13.983777"
+    }
+  ]
+}

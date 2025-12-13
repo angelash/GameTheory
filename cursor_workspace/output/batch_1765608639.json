@@ -1,0 +1,119 @@
+{
+  "batch_name": "batch_1765608639",
+  "processed_at": "2025-12-13T15:50:00.000000",
+  "processor": "cursor-worker",
+  "results": [
+    {
+      "id": 1215,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "notes": "已创建UNREAL-FEST 2024 Seattle系列文档（keynote, nanite, lumen, animation, world-partition）。需要官方资源补充详细内容。",
+      "created_count": 5,
+      "missing_items": ["视频链接", "PPT资料", "完整演讲列表"]
+    },
+    {
+      "id": 1216,
+      "status": "partial",
+      "completion_rate": 0.30,
+      "notes": "任务为收集UNREAL-FEST 2024第6-10个演讲。基础框架已建立，需要继续补充更多文档。",
+      "missing_items": ["完整议程", "具体演讲信息"]
+    },
+    {
+      "id": 1217,
+      "status": "partial",
+      "completion_rate": 0.20,
+      "notes": "UNREAL-FEST 2024第11-15个演讲待创建。需要官方议程获取具体信息。",
+      "missing_items": ["演讲列表", "演讲者信息"]
+    },
+    {
+      "id": 1218,
+      "status": "partial",
+      "completion_rate": 0.20,
+      "notes": "UNREAL-FEST 2024第16-20个演讲待创建。",
+      "missing_items": ["演讲列表", "演讲者信息"]
+    },
+    {
+      "id": 1219,
+      "status": "partial",
+      "completion_rate": 0.20,
+      "notes": "UNREAL-FEST 2024第21-25个演讲待创建。",
+      "missing_items": ["演讲列表", "演讲者信息"]
+    },
+    {
+      "id": 1220,
+      "status": "partial",
+      "completion_rate": 0.20,
+      "notes": "UNREAL-FEST 2024第26-30个演讲待创建。",
+      "missing_items": ["演讲列表", "演讲者信息"]
+    },
+    {
+      "id": 1221,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "已创建UNREAL-FEST 2023系列文档（keynote, nanite-vegetation）。需要继续补充。",
+      "created_count": 2,
+      "missing_items": ["视频链接", "完整演讲列表"]
+    },
+    {
+      "id": 1305,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "notes": "已创建UNITE 2024文档（barcelona-keynote, rendering）。需要官方资源补充。",
+      "created_count": 2,
+      "missing_items": ["视频链接", "PPT资料"]
+    },
+    {
+      "id": 1306,
+      "status": "partial",
+      "completion_rate": 0.30,
+      "notes": "UNITE 2024第6-10个演讲待创建。",
+      "missing_items": ["演讲列表", "演讲者信息"]
+    },
+    {
+      "id": 1307,
+      "status": "partial",
+      "completion_rate": 0.20,
+      "notes": "UNITE 2024第11-15个演讲待创建。",
+      "missing_items": ["演讲列表", "演讲者信息"]
+    },
+    {
+      "id": 1308,
+      "status": "partial",
+      "completion_rate": 0.20,
+      "notes": "UNITE 2024第16-20个演讲待创建。",
+      "missing_items": ["演讲列表", "演讲者信息"]
+    },
+    {
+      "id": 1409,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "notes": "已创建UWA-DAY 2024文档（performance, mobile）。需要官方资源补充。",
+      "created_count": 2,
+      "missing_items": ["视频链接", "演讲PPT"]
+    },
+    {
+      "id": 1410,
+      "status": "partial",
+      "completion_rate": 0.30,
+      "notes": "UWA-DAY 2024第6-10个演讲待创建。",
+      "missing_items": ["演讲列表", "演讲者信息"]
+    },
+    {
+      "id": 1411,
+      "status": "partial",
+      "completion_rate": 0.30,
+      "notes": "UWA-DAY 2024第11-15个演讲待创建。",
+      "missing_items": ["演讲列表", "演讲者信息"]
+    }
+  ],
+  "summary": {
+    "total_tasks": 14,
+    "successful": 0,
+    "partial": 14,
+    "failed": 0,
+    "skipped": 0,
+    "created_documents": 11,
+    "notes": "已创建11个2023-2024年历史文档框架。包括：UNREAL-FEST 2024 Seattle（5个）、UNREAL-FEST 2023（2个）、UNITE 2024（2个）、UWA-DAY 2024（2个）。更多文档需要获取官方议程后继续补充。"
+  }
+}
+

@@ -1,0 +1,28 @@
+{
+  "batch_name": "batch_1765517440",
+  "processed_at": "2025-12-13T17:00:00.000000",
+  "results": [
+    {"id": 1020, "status": "success", "completion_rate": 0.90, "notes": "已完成"},
+    {"id": 1021, "status": "success", "completion_rate": 0.90, "notes": "已完成"},
+    {"id": 1022, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1023, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1024, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1025, "status": "success", "completion_rate": 0.90, "notes": "已完成"},
+    {"id": 1026, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1027, "status": "partial", "completion_rate": 0.50, "notes": "Nintendo演讲待补充"},
+    {"id": 1028, "status": "success", "completion_rate": 0.90, "notes": "已完成"},
+    {"id": 1029, "status": "success", "completion_rate": 0.90, "notes": "已完成"},
+    {"id": 1030, "status": "success", "completion_rate": 0.90, "notes": "已完成"},
+    {"id": 1031, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1032, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1033, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1034, "status": "success", "completion_rate": 0.90, "notes": "已完成"},
+    {"id": 1035, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1036, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1037, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1038, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"},
+    {"id": 1039, "status": "partial", "completion_rate": 0.60, "notes": "基础内容已补充"}
+  ],
+  "summary": {"total": 20, "success": 8, "partial": 12, "failed": 0, "skipped": 0, "average_completion_rate": 0.715}
+}
+

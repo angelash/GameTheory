@@ -1,0 +1,88 @@
+{
+  "batch_name": "batch_1765608553",
+  "processed_at": "2025-12-13T15:35:00.000000",
+  "processor": "cursor-worker",
+  "results": [
+    {
+      "id": 1400,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "文件存在，需要补充UWA Day 2025开发工具相关详细内容。",
+      "missing_items": ["视频链接", "PPT资料", "演讲者信息"],
+      "updated_file": "docs/uwa-day/talks/2025/uwa-day-2025-development-tools.md"
+    },
+    {
+      "id": 1401,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "文件存在，需要补充引擎技术相关详细内容。",
+      "missing_items": ["视频链接", "技术细节", "演讲者信息"],
+      "updated_file": "docs/uwa-day/talks/2025/uwa-day-2025-engine-technology.md"
+    },
+    {
+      "id": 1402,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "文件存在，需要补充内存管理相关详细内容。",
+      "missing_items": ["视频链接", "内存分析工具", "案例数据"],
+      "updated_file": "docs/uwa-day/talks/2025/uwa-day-2025-memory-management.md"
+    },
+    {
+      "id": 1403,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "文件存在，需要补充移动端优化相关详细内容。",
+      "missing_items": ["视频链接", "设备兼容性数据", "演讲者信息"],
+      "updated_file": "docs/uwa-day/talks/2025/uwa-day-2025-mobile-optimization.md"
+    },
+    {
+      "id": 1404,
+      "status": "partial",
+      "completion_rate": 0.65,
+      "notes": "已补充性能优化核心内容：CPU/GPU/内存优化策略。需要官方资源进一步完善。",
+      "missing_items": ["视频链接", "PPT资料", "具体案例数据"],
+      "updated_file": "docs/uwa-day/talks/2025/uwa-day-2025-performance-optimization.md"
+    },
+    {
+      "id": 1405,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "文件存在，需要补充项目案例详细内容。",
+      "missing_items": ["视频链接", "案例详情", "项目背景"],
+      "updated_file": "docs/uwa-day/talks/2025/uwa-day-2025-project-case.md"
+    },
+    {
+      "id": 1406,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "文件存在，需要补充渲染优化相关详细内容。",
+      "missing_items": ["视频链接", "渲染管线细节", "性能数据"],
+      "updated_file": "docs/uwa-day/talks/2025/uwa-day-2025-rendering-optimization.md"
+    },
+    {
+      "id": 1407,
+      "status": "partial",
+      "completion_rate": 0.65,
+      "notes": "已补充Unity优化核心内容：渲染优化、脚本优化、资源优化。",
+      "missing_items": ["视频链接", "PPT资料", "具体案例"],
+      "updated_file": "docs/uwa-day/talks/2025/uwa-day-2025-unity-optimization.md"
+    },
+    {
+      "id": 1408,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "UWA Day 2025概览文档，需要补充会议整体信息。",
+      "missing_items": ["议程表", "所有演讲列表", "参会信息"],
+      "updated_file": "docs/uwa-day/talks/2025/uwa-day-2025.md"
+    }
+  ],
+  "summary": {
+    "total_tasks": 9,
+    "successful": 0,
+    "partial": 9,
+    "failed": 0,
+    "skipped": 0,
+    "notes": "已处理所有UWA-DAY 2025相关任务。性能优化和Unity优化文档已补充核心内容框架。其他文档需要获取官方资源后进一步补充。注：批次中存在重复任务ID。"
+  }
+}
+

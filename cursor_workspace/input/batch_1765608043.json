@@ -1,0 +1,246 @@
+{
+  "batch_name": "batch_1765608043",
+  "created_at": "2025-12-13T14:40:43.499760",
+  "tasks": [
+    {
+      "id": 1080,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-9",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-9.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1081,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-mobile-game-ai-anti-cheat",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-mobile-game-ai-anti-cheat.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1082,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-1",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-1.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1083,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-2",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-2.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1084,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-1",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-1.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1085,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-2",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-2.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1086,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-3",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-3.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1087,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-rendering-technology",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-rendering-technology.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1088,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-service-game",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-service-game.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1089,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-user-research",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-user-research.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1090,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-vr-ar-design",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-vr-ar-design.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1091,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-vr-ar-performance",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-vr-ar-performance.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1092,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-vr-immersive-design",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-vr-immersive-design.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1093,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-vr-motion-control",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-vr-motion-control.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1080,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-game-design-9",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-game-design-9.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1081,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-mobile-game-ai-anti-cheat",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-mobile-game-ai-anti-cheat.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1082,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-1",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-1.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1083,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-production-2",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-production-2.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1084,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-1",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-1.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    },
+    {
+      "id": 1085,
+      "type": "content_supplement",
+      "title": "补充GDC 2025演讲内容 - gdc-2025-tencent-programming-2",
+      "status": "in_progress",
+      "priority": 1,
+      "description": "补充GDC 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\gdc\\talks\\2025\\gdc-2025-tencent-programming-2.md"
+      ],
+      "started_at": "2025-12-13T14:40:43.493748"
+    }
+  ]
+}

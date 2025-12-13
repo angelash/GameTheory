@@ -1,0 +1,176 @@
+{
+  "batch_name": "batch_1765608408",
+  "processed_at": "2025-12-13T15:25:00.000000",
+  "processor": "cursor-worker",
+  "results": [
+    {
+      "id": 1200,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "文件存在但需要补充详细内容。需要官方资源链接。",
+      "missing_items": ["视频链接", "PPT/PDF", "演讲者详细信息"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-animation.md"
+    },
+    {
+      "id": 1201,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充巫师4 UE5.6技术演示的核心内容：开放世界技术、Nanite植被、ML Deformer。",
+      "missing_items": ["官方视频链接", "PPT资料"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-cd-projekt-witcher4.md"
+    },
+    {
+      "id": 1202,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "文件存在但需要补充网络技术详细内容。",
+      "missing_items": ["视频链接", "网络架构图", "延迟数据"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-networking.md"
+    },
+    {
+      "id": 1203,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充性能优化内容：CPU优化30%+、内存管理、移动平台优化。",
+      "missing_items": ["官方视频链接", "性能对比数据"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-performance.md"
+    },
+    {
+      "id": 1204,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充渲染技术内容：Nanite 2.0、Lumen增强、Virtual Shadow Maps。",
+      "missing_items": ["官方视频链接", "渲染对比图"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-rendering.md"
+    },
+    {
+      "id": 1205,
+      "status": "partial",
+      "completion_rate": 0.75,
+      "notes": "已补充Tim Sweeney主题演讲内容：UE5.6新特性、性能提升、未来方向。",
+      "missing_items": ["官方视频链接", "发布公告链接"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-tim-sweeney-keynote.md"
+    },
+    {
+      "id": 1206,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "notes": "已有基本框架，需要补充UE5.6发布详细内容。",
+      "missing_items": ["官方发布日志", "视频链接", "下载链接"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-orlando-ue56-release.md"
+    },
+    {
+      "id": 1207,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "上海站案例研究文档需要补充具体案例内容。",
+      "missing_items": ["视频链接", "案例详情", "演讲者信息"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-case-study.md"
+    },
+    {
+      "id": 1208,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "上海站主题演讲需要补充详细内容。",
+      "missing_items": ["视频链接", "PPT资料", "演讲摘要"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-keynote.md"
+    },
+    {
+      "id": 1209,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "上海站技术分享1需要补充详细内容。",
+      "missing_items": ["视频链接", "技术细节", "演讲者信息"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-technical-1.md"
+    },
+    {
+      "id": 1210,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "上海站技术分享2需要补充详细内容。",
+      "missing_items": ["视频链接", "技术细节", "演讲者信息"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-shanghai-technical-2.md"
+    },
+    {
+      "id": 1211,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "东京站主题演讲需要补充详细内容。",
+      "missing_items": ["视频链接", "PPT资料", "日本市场相关信息"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-keynote.md"
+    },
+    {
+      "id": 1212,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "东京站技术分享1需要补充详细内容。",
+      "missing_items": ["视频链接", "技术细节", "演讲者信息"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-technical-1.md"
+    },
+    {
+      "id": 1213,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "东京站技术分享2需要补充详细内容。",
+      "missing_items": ["视频链接", "技术细节", "演讲者信息"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-technical-2.md"
+    },
+    {
+      "id": 1214,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "东京站技术分享需要补充详细内容。",
+      "missing_items": ["视频链接", "技术细节", "演讲者信息"],
+      "updated_file": "docs/unreal-fest/talks/2025/unreal-fest-2025-tokyo-technical.md"
+    },
+    {
+      "id": 1300,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充Unity 6图形渲染内容：URP 2.0、GPU驱动渲染、移动端优化。",
+      "missing_items": ["官方视频链接", "渲染对比图"],
+      "updated_file": "docs/unite/talks/2025/unite-2025-graphics-rendering.md"
+    },
+    {
+      "id": 1301,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "多人游戏解决方案需要补充详细内容。",
+      "missing_items": ["视频链接", "Netcode文档", "架构图"],
+      "updated_file": "docs/unite/talks/2025/unite-2025-multiplayer-solutions.md"
+    },
+    {
+      "id": 1302,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "性能优化文档需要补充详细内容。",
+      "missing_items": ["视频链接", "优化指南", "性能数据"],
+      "updated_file": "docs/unite/talks/2025/unite-2025-performance-optimization.md"
+    },
+    {
+      "id": 1303,
+      "status": "partial",
+      "completion_rate": 0.70,
+      "notes": "已补充Unity 6发布内容：多人游戏、XR支持、AI工具。",
+      "missing_items": ["官方发布日志", "视频链接"],
+      "updated_file": "docs/unite/talks/2025/unite-2025-unity-6-release.md"
+    },
+    {
+      "id": 1304,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "notes": "XR开发文档需要补充详细内容。",
+      "missing_items": ["视频链接", "XR设备支持列表", "示例项目"],
+      "updated_file": "docs/unite/talks/2025/unite-2025-xr-development.md"
+    }
+  ],
+  "summary": {
+    "total_tasks": 20,
+    "successful": 0,
+    "partial": 20,
+    "failed": 0,
+    "skipped": 0,
+    "notes": "已处理所有UNREAL-FEST 2025和UNITE 2025相关任务。关键文档（Tim Sweeney主题演讲、巫师4技术演示、UE5.6性能/渲染、Unity 6发布和图形）已补充详细内容框架。其他区域性活动文档（上海站、东京站）需要获取官方资源后进一步补充。"
+  }
+}
+

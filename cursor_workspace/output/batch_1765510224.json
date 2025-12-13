@@ -1,0 +1,149 @@
+{
+  "batch_name": "batch_1765510224",
+  "processed_at": "2025-12-13T16:30:00.000000",
+  "results": [
+    {
+      "id": 1020,
+      "status": "success",
+      "completion_rate": 0.85,
+      "notes": "已补充系统设计相关通用内容"
+    },
+    {
+      "id": 1021,
+      "status": "success",
+      "completion_rate": 0.90,
+      "notes": "已完整更新Google AI游戏开发内容"
+    },
+    {
+      "id": 1022,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["视频链接", "PPT资料"],
+      "notes": "图形GPU计算基础内容已补充"
+    },
+    {
+      "id": 1023,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["视频链接", "PPT资料"],
+      "notes": "光照技术基础内容已补充"
+    },
+    {
+      "id": 1024,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["视频链接", "PPT资料"],
+      "notes": "后处理技术基础内容已补充"
+    },
+    {
+      "id": 1025,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["视频链接", "PPT资料"],
+      "notes": "渲染管线基础内容已补充"
+    },
+    {
+      "id": 1026,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["视频链接", "PPT资料"],
+      "notes": "Shader技术基础内容已补充"
+    },
+    {
+      "id": 1027,
+      "status": "partial",
+      "completion_rate": 0.50,
+      "missing_items": ["实际演讲内容", "视频链接", "PPT资料"],
+      "notes": "Nintendo主题演讲待GDC后补充实际内容"
+    },
+    {
+      "id": 1028,
+      "status": "success",
+      "completion_rate": 0.90,
+      "notes": "已完整更新State of Unreal 2025内容"
+    },
+    {
+      "id": 1029,
+      "status": "success",
+      "completion_rate": 0.90,
+      "notes": "已完整更新Unity Keynote 2025内容"
+    },
+    {
+      "id": 1030,
+      "status": "success",
+      "completion_rate": 0.90,
+      "notes": "已完整更新Meta AI VR/MR内容"
+    },
+    {
+      "id": 1031,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["具体演讲内容", "视频链接"],
+      "notes": "米哈游演讲2基础框架已补充"
+    },
+    {
+      "id": 1032,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["具体演讲内容", "视频链接"],
+      "notes": "米哈游演讲3基础框架已补充"
+    },
+    {
+      "id": 1033,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["具体演讲内容", "视频链接"],
+      "notes": "米哈游演讲4基础框架已补充"
+    },
+    {
+      "id": 1034,
+      "status": "success",
+      "completion_rate": 0.90,
+      "notes": "已完整更新米哈游游戏开发技术内容"
+    },
+    {
+      "id": 1035,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["具体演讲内容", "视频链接"],
+      "notes": "叙事分支设计基础内容已补充"
+    },
+    {
+      "id": 1036,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["具体演讲内容", "视频链接"],
+      "notes": "角色发展设计基础内容已补充"
+    },
+    {
+      "id": 1037,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["具体演讲内容", "视频链接"],
+      "notes": "对话设计基础内容已补充"
+    },
+    {
+      "id": 1038,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["具体演讲内容", "视频链接"],
+      "notes": "叙事设计基础内容已补充"
+    },
+    {
+      "id": 1039,
+      "status": "partial",
+      "completion_rate": 0.60,
+      "missing_items": ["具体演讲内容", "视频链接"],
+      "notes": "网易演讲2基础框架已补充"
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "success": 6,
+    "partial": 14,
+    "failed": 0,
+    "skipped": 0,
+    "average_completion_rate": 0.695
+  }
+}
+

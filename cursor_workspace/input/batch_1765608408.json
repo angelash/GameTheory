@@ -1,0 +1,246 @@
+{
+  "batch_name": "batch_1765608408",
+  "created_at": "2025-12-13T14:46:48.862557",
+  "tasks": [
+    {
+      "id": 1200,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-animation",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-animation.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1201,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-cd-projekt-witcher4",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-cd-projekt-witcher4.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1202,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-networking",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-networking.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1203,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-performance",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-performance.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1204,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-rendering",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-rendering.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1205,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-tim-sweeney-keynote",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-tim-sweeney-keynote.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1206,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-orlando-ue56-release",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-orlando-ue56-release.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1207,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-case-study",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-case-study.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1208,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-keynote",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-keynote.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1209,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-technical-1",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-technical-1.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1210,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-shanghai-technical-2",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-shanghai-technical-2.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1211,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-keynote",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-keynote.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1212,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical-1",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical-1.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1213,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical-2",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical-2.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1214,
+      "type": "content_supplement",
+      "title": "补充UNREAL-FEST 2025演讲内容 - unreal-fest-2025-tokyo-technical",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNREAL-FEST 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unreal-fest\\talks\\2025\\unreal-fest-2025-tokyo-technical.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1300,
+      "type": "content_supplement",
+      "title": "补充UNITE 2025演讲内容 - unite-2025-graphics-rendering",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unite\\talks\\2025\\unite-2025-graphics-rendering.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1301,
+      "type": "content_supplement",
+      "title": "补充UNITE 2025演讲内容 - unite-2025-multiplayer-solutions",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unite\\talks\\2025\\unite-2025-multiplayer-solutions.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1302,
+      "type": "content_supplement",
+      "title": "补充UNITE 2025演讲内容 - unite-2025-performance-optimization",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unite\\talks\\2025\\unite-2025-performance-optimization.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1303,
+      "type": "content_supplement",
+      "title": "补充UNITE 2025演讲内容 - unite-2025-unity-6-release",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unite\\talks\\2025\\unite-2025-unity-6-release.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    },
+    {
+      "id": 1304,
+      "type": "content_supplement",
+      "title": "补充UNITE 2025演讲内容 - unite-2025-xr-development",
+      "status": "in_progress",
+      "priority": 2,
+      "description": "补充UNITE 2025年1个演讲的资源链接、详细内容和关键要点",
+      "target_files": [
+        "docs\\unite\\talks\\2025\\unite-2025-xr-development.md"
+      ],
+      "started_at": "2025-12-13T14:46:48.838611"
+    }
+  ]
+}
